@@ -55,11 +55,12 @@ export default function LoginPage() {
               className="group flex flex-col items-center p-6 rounded-3xl bg-stone-900/50 border border-stone-800 hover:border-primary/50 hover:bg-stone-800/80 transition-all duration-300 transform hover:-translate-y-2"
             >
               <div className="relative mb-4">
-                <img 
-                  src={user.avatar} 
-                  alt={user.name} 
-                  className="w-24 h-24 rounded-full border-4 border-stone-800 group-hover:border-primary transition-colors object-cover"
-                />
+                <div 
+                  className="w-24 h-24 rounded-full border-4 border-stone-800 group-hover:border-primary transition-colors flex items-center justify-center font-black text-white text-3xl"
+                  style={{ backgroundColor: user.avatarColor || "#f59e0b" }}
+                >
+                  {user.name.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase()}
+                </div>
                 <div className={clsx(
                   "absolute -bottom-2 left-1/2 -translate-x-1/2 px-2.5 py-0.5 rounded-full text-[10px] font-black tracking-widest uppercase border",
                   user.role === "ADMIN" ? "bg-red-500/20 text-red-400 border-red-500/30" :

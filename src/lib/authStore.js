@@ -5,26 +5,26 @@ export const MOCK_USERS = [
   {
     id: "user-1",
     role: "USER",
-    name: "Juan Cocinero",
-    email: "juan@ejemplo.com",
-    avatar: "https://i.pravatar.cc/150?u=juan",
-    description: "Lector y entusiasta",
+    name: "Gabriela Gómez",
+    email: "gabriela@cocinachapina.com",
+    avatarColor: "#10b981", // emerald
+    description: "Usuaria del recetario",
   },
   {
     id: "user-2",
     role: "EDITOR",
-    name: "Chef Marlyn",
-    email: "marlyn@cocinachapina.com",
-    avatar: "https://i.pravatar.cc/150?u=marlyn",
-    description: "Creadora de contenido",
+    name: "Emilio Escobar",
+    email: "emilio@cocinachapina.com",
+    avatarColor: "#3b82f6", // blue
+    description: "Editor de contenido",
   },
   {
     id: "user-3",
     role: "ADMIN",
     name: "Hugo Escobar",
     email: "hugo@cocinachapina.com",
-    avatar: "https://i.pravatar.cc/150?u=hugo",
-    description: "Acceso total",
+    avatarColor: "#f59e0b", // amber (brand color)
+    description: "Administrador",
   },
 ];
 
