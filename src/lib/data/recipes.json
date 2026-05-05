@@ -1,0 +1,4981 @@
+[
+  {
+    "id": "pepian-1",
+    "title": "Pepián de Pollo Tradicional",
+    "description": "El Pepián es uno de los platos más antiguos y emblemáticos de Guatemala, reconocido como Patrimonio Cultural Intangible de la Nación. Su recado oscuro y aromático, a base de semillas tostadas, lo convierte en una experiencia culinaria única que cuenta la historia de la fusión maya y colonial.",
+    "basePortions": 4,
+    "category": "Plato fuerte",
+    "difficulty": "Intermedia",
+    "prepTime": "30 min",
+    "cookTime": "70 min",
+    "temperature": "Fuego medio",
+    "rating": 5,
+    "author": "Recetario Central",
+    "utensils": [
+      "Comal o sartén de hierro",
+      "Licuadora",
+      "Olla grande honda",
+      "Cuchillo de chef",
+      "Tabla de picar"
+    ],
+    "tips": "Para un sabor más profundo, tuesta las semillas (pepitoria y ajonjolí) hasta que apenas cambien de color; si se queman, el recado se amargará. Puedes asar los tomates hasta que estén bien tatemados (con la piel negra) para un sabor más auténtico.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pollo (piezas mixtas, muslo y pierna recomendados)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 15.5,
+        "store": "Mercado Terminal"
+      },
+      {
+        "name": "Tomate de cocina maduro",
+        "qty": 1,
+        "unit": "lb",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate (tomate verde pequeño)",
+        "qty": 4,
+        "unit": "oz",
+        "price": 3.5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajonjolí",
+        "qty": 2,
+        "unit": "oz",
+        "price": 2,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Pepitoria",
+        "qty": 2,
+        "unit": "oz",
+        "price": 3,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Chile Guaque",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 1.5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Pasa",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 1.5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla blanca",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 3,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Papa blanca",
+        "qty": 1,
+        "unit": "lb",
+        "price": 4.5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ejote francés",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 3,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción del Pollo",
+        "description": "En una olla grande, pon a cocer las piezas de pollo cubiertas con agua. Agrega sal al gusto, la mitad de la cebolla y un diente de ajo. Cocina a fuego medio. Cuando empiece a ablandarse, retira la espuma que se forma arriba.",
+        "imageUrl": "https://images.unsplash.com/photo-1536304953768-cfdf3b67941d?q=80&w=800",
+        "timer": {
+          "name": "Cocer pollo",
+          "minutes": 40
+        }
+      },
+      {
+        "title": "Tostado Ceremonial de Semillas",
+        "description": "Mientras el pollo hierve, calienta el comal a fuego bajo. Tuesta la pepitoria y el ajonjolí por separado, moviéndolos constantemente para evitar que se quemen. Tuesta también los chiles secos (guaque y pasa) por unos segundos hasta que suelten su aroma, sin dejar que se pongan negros.",
+        "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=800",
+        "timer": {
+          "name": "Tostar semillas",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Tatemado del Recado",
+        "description": "En el mismo comal, coloca los tomates, miltomates, el resto de la cebolla y los dos dientes de ajo restantes. Ásalos hasta que la piel de los tomates esté carbonizada y se desprendan sus jugos. Esto le da el característico sabor ahumado al Pepián.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Asar vegetales",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Molienda y Espesado",
+        "description": "Licúa todos los ingredientes asados (tomates, cebolla, ajo, chiles) junto con las semillas tostadas. Usa un poco del caldo del pollo para facilitar el licuado. Pasa esta mezcla (recado) por un colador fino directamente sobre la olla donde está el pollo.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Hervor Final con Verduras",
+        "description": "Agrega las papas peladas y cortadas en cuartos, y los ejotes cortados a la mitad. Deja hervir todo junto a fuego lento para que el recado espese y las verduras se cuezan. Sirve caliente acompañado de arroz blanco y tortillas.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Cocción final",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "jocon-1",
+    "title": "Jocón de Pollo Tradicional",
+    "description": "Originario del departamento de Huehuetenango, el Jocón es famoso por su característico color verde vibrante, obtenido de ingredientes frescos como el miltomate, el cilantro y el chile verde. Es un recado ligero, aromático y muy reconfortante.",
+    "basePortions": 4,
+    "category": "Plato fuerte",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "45 min",
+    "temperature": "Fuego bajo-medio",
+    "rating": 4.5,
+    "author": "Cocina de Occidente",
+    "utensils": [
+      "Licuadora",
+      "Olla mediana",
+      "Comal",
+      "Cucharón de madera"
+    ],
+    "tips": "El gran secreto del Jocón es no tapar la olla una vez que se ha agregado el recado verde al caldo. Si la tapas, los ácidos del miltomate se condensarán y el hermoso color verde vibrante se tornará café oscuro.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pollo (piezas mixtas)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 16,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Miltomate verde",
+        "qty": 1,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebollín con todo y tallo verde",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro fresco",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Pimiento Verde",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Verde o Serrano (opcional)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Pan francés duro o masa de maíz",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Panadería"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción del Pollo",
+        "description": "En una olla grande, coloca las piezas de pollo con suficiente agua para cubrirlas. Agrega sal y una cebolla blanca partida. Cocina a fuego medio hasta que el pollo esté tierno.",
+        "imageUrl": "https://images.unsplash.com/photo-1521483451539-c37a85d3ba97?q=80&w=800",
+        "timer": {
+          "name": "Cocer pollo",
+          "minutes": 30
+        }
+      },
+      {
+        "title": "Asado de Ingredientes Verdes",
+        "description": "En un comal precalentado, asa ligeramente el miltomate, los cebollines enteros (con sus tallos verdes), el chile pimiento verde y los chiles serranos. Deben dorarse un poco para soltar su sabor, pero sin perder su frescura verde.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Asar verdes",
+          "minutes": 8
+        }
+      },
+      {
+        "title": "Licuado del Recado Verde",
+        "description": "En una licuadora, coloca todos los ingredientes asados junto con las hojas frescas del cilantro. Agrega el pan francés previamente remojado en un poco de caldo de pollo (esto servirá para espesar). Licúa hasta obtener una salsa tersa y muy verde.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      },
+      {
+        "title": "Integración y Espesado Final",
+        "description": "Vierte el recado verde sobre la olla con el pollo y el caldo sobrante. Mezcla bien y deja hervir a fuego muy lento, ¡sin tapar la olla!, durante unos minutos para que el sabor se concentre y la salsa adquiera la consistencia deseada.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Hervir Jocón",
+          "minutes": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "kakik-1",
+    "title": "Kak'ik Ceremonial de Pavo",
+    "description": "Sopa ancestral de origen Q'eqchi' (Alta Verapaz). Su nombre proviene de los vocablos mayas 'kak' (rojo) e 'ik' (chile). Es un plato ceremonial, declarado Patrimonio Cultural de Guatemala, que destaca por su rojo intenso y su profundo sabor especiado y picante.",
+    "basePortions": 6,
+    "category": "Sopa",
+    "difficulty": "Avanzada",
+    "prepTime": "40 min",
+    "cookTime": "120 min",
+    "temperature": "Fuego medio",
+    "rating": 5,
+    "author": "Tradición Q'eqchi'",
+    "utensils": [
+      "Olla grande (idealmente de barro)",
+      "Comal",
+      "Licuadora",
+      "Cucharón grande"
+    ],
+    "tips": "El pavo criollo (chompipe) tiene una carne más firme y requiere más tiempo de cocción que el pollo comercial. Para el verdadero sabor de Cobán, usa el chile cobanero entero, asándolo levemente antes de licuarlo, pero cuidado: es sumamente picante.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Pavo (Chompipe criollo, piezas con hueso)",
+        "qty": 3,
+        "unit": "lb",
+        "price": 45,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate maduro",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 9,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate pequeño",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Pimiento Rojo",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro (variedad Samat si es posible)",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Cobanero seco",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Achiote en pasta",
+        "qty": 1,
+        "unit": "cda",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 1,
+        "unit": "cabeza",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción Lenta del Pavo",
+        "description": "En la olla grande, coloca las piezas de pavo, cúbrelas con agua, y añade sal, una cabeza de ajo entera (lavada) y una cebolla partida a la mitad. Cocina a fuego lento espumando constantemente; la carne debe quedar tan suave que casi se desprenda del hueso.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Cocer pavo",
+          "minutes": 90
+        }
+      },
+      {
+        "title": "Asado del Recado Rojo",
+        "description": "Mientras el pavo se cuece, asa en el comal los tomates, miltomates, la cebolla restante y los chiles pimientos rojos (sin semillas). Deben quedar bien tatemados, casi negros en la piel, para aportar el sabor ahumado característico.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Asar vegetales",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "Molienda Fina",
+        "description": "Licúa los vegetales asados usando un poco del caldo del pavo. Añade el achiote diluido en caldo para garantizar ese color rojo vibrante intenso. Cuela esta mezcla directamente sobre la olla del pavo.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "El Toque de Cobán y Hervor Final",
+        "description": "Incorpora a la olla el chile cobanero (puedes licuarlo con el recado o echarlo entero si prefieres que solo aromatice y pique menos) y el cilantro entero amarrado en un mazo. Deja hervir a fuego lento para que todos los sabores se amalgamen profundamente.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Hervor ceremonial",
+          "minutes": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "hilachas-1",
+    "title": "Hilachas de Res de la Abuela",
+    "description": "Un guiso tradicional hogareño consistente en carne de res desmenuzada, sumergida en una sedosa salsa de tomate ahumado, acompañada de papa y zanahoria. Las hilachas son el clásico indiscutible de los almuerzos de domingo en las familias guatemaltecas.",
+    "basePortions": 4,
+    "category": "Plato fuerte",
+    "difficulty": "Intermedia",
+    "prepTime": "25 min",
+    "cookTime": "80 min",
+    "temperature": "Fuego medio",
+    "rating": 4.5,
+    "author": "Receta Casera",
+    "utensils": [
+      "Olla de presión (ideal)",
+      "Sartén",
+      "Licuadora",
+      "Dos tenedores"
+    ],
+    "tips": "Para ahorrar tiempo y garantizar una carne sumamente suave, utiliza la olla de presión para la primera fase de cocción (unos 45 min). El bolovique es ideal porque sus fibras son largas y fáciles de deshilachar una vez cocido.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Carne de res (Bolovique o Falda limpia)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 65,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomate maduro",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 4,
+        "unit": "oz",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile Guaque (seco)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 2,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Papa blanca grande",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Zanahoria grande",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite vegetal",
+        "qty": 1,
+        "unit": "cda",
+        "price": 1,
+        "store": "Abarrotería"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Ablandar la Carne",
+        "description": "Coloca la carne en la olla de presión con suficiente agua, sal, ajo y media cebolla. Cocina hasta que la carne esté extremadamente suave. Retírala del caldo (reserva el caldo) y déjala enfriar un poco.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Cocer carne (olla presión)",
+          "minutes": 45
+        }
+      },
+      {
+        "title": "El Arte de Deshilachar",
+        "description": "Una vez manipulable, usa tus manos o dos tenedores para separar la carne a lo largo de sus fibras, creando tiras delgadas o 'hilachas'.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Recado Sofrito",
+        "description": "En una olla aparte, pon a hervir con poca agua los tomates, miltomates, la otra mitad de la cebolla y los chiles guaque (sin semillas). Licúalos finamente. En una sartén grande o cacerola honda, calienta el aceite y fríe esta salsa licuada para potenciar su sabor.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Sofreír salsa",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Unión de Sabores",
+        "description": "Agrega las hilachas de carne al recado sofrito, junto con un poco del caldo reservado si está muy espeso. Añade las papas y zanahorias peladas y cortadas en rodajas de grosor medio. Cocina a fuego lento hasta que las verduras estén suaves.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Cocción final de vegetales",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "chuchitos-1",
+    "title": "Chuchitos Tradicionales",
+    "description": "Los chuchitos son pequeños tamales de maíz, compactos y de forma abombada, rellenos de recado de tomate y un trozo de carne. Se envuelven en hojas de tusa (hoja de la mazorca seca) y son la entrada perfecta en cualquier fiesta guatemalteca.",
+    "basePortions": 15,
+    "category": "Antojito",
+    "difficulty": "Media",
+    "prepTime": "45 min",
+    "cookTime": "90 min",
+    "temperature": "Vapor a fuego alto",
+    "rating": 4.8,
+    "author": "Recetario Central",
+    "utensils": [
+      "Olla vaporera",
+      "Tazones grandes",
+      "Tusas secas",
+      "Comal"
+    ],
+    "tips": "Para que la masa no quede seca, usa suficiente manteca de cerdo y caldo en la mezcla. Las tusas (hojas de maíz) deben remojarse en agua caliente antes de usarse para que sean flexibles y no se rompan al amarrar.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de maíz (nixtamal o harina Maseca)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 15,
+        "store": "Molino/Super"
+      },
+      {
+        "name": "Manteca de cerdo",
+        "qty": 8,
+        "unit": "oz",
+        "price": 10,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Carne de cerdo o pollo (cortada en cuadros pequeños)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomates maduros",
+        "qty": 1,
+        "unit": "lb",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 4,
+        "unit": "oz",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile pimiento",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Pepitoria tostada",
+        "qty": 1,
+        "unit": "cda",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de tusa (maíz seco)",
+        "qty": 2,
+        "unit": "manojos",
+        "price": 10,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Preparación del Recado",
+        "description": "Asa los tomates, miltomates y chiles pimientos. Licúalos con la pepitoria tostada y un poco de sal para crear un recado espeso. Sofríe esta mezcla en un poco de aceite.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800",
+        "timer": {
+          "name": "Sofreír recado",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Sazonar la Masa",
+        "description": "En un recipiente amplio, mezcla la masa de maíz con la manteca derretida, sal al gusto y un poco de caldo o agua tibia. Amasa vigorosamente hasta obtener una textura suave y que no se pegue a las manos.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Armado del Chuchito",
+        "description": "Toma una tusa remojada y suave. Coloca una bola pequeña de masa en el centro. Haz un hoyo en medio de la masa y vierte una cucharada del recado y un trozo de carne cruda. Cierra la masa envolviendo el relleno.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Amarre",
+        "description": "Cierra la tusa firmemente alrededor de la masa formando un paquete ovalado. Usa tiras delgadas de la misma tusa para amarrar la parte superior fuertemente, asegurando que no se salga nada.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      },
+      {
+        "title": "Cocción al Vapor",
+        "description": "Coloca todos los chuchitos parados (con el amarre hacia arriba) en una olla vaporera o sobre una cama de hojas con agua al fondo. Cubre la olla herméticamente y cocina al vapor.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Vapor",
+          "minutes": 90
+        }
+      }
+    ]
+  },
+  {
+    "id": "tapado-1",
+    "title": "Tapado Livingston",
+    "description": "La máxima expresión culinaria de la cultura Garífuna en Livingston, Izabal. Una sopa de mariscos espectacular, rica y cremosa, que obtiene su sabor inconfundible de la leche de coco, el plátano verde rallado y los mariscos enteros. Se le llama 'Tapado' porque se cocina a fuego lento cubierto con hojas de plátano.",
+    "basePortions": 4,
+    "category": "Plato Fuerte / Sopa",
+    "difficulty": "Avanzada",
+    "prepTime": "30 min",
+    "cookTime": "45 min",
+    "temperature": "Fuego medio-bajo",
+    "rating": 5,
+    "author": "Costas de Izabal",
+    "utensils": [
+      "Olla grande y ancha",
+      "Rallador",
+      "Hojas de plátano limpias",
+      "Cucharón grande"
+    ],
+    "tips": "El sabor auténtico lo da la frescura de los mariscos (usa pescado entero con hueso, que suelta todo el sabor) y extraer la leche de coco a mano del coco seco es superior, aunque puedes usar en lata. El plátano verde es el espesante natural.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Pescado entero (Pargo o Mojarra, limpio)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 40,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Cangrejos",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 25,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Camarones con cáscara",
+        "qty": 1,
+        "unit": "lb",
+        "price": 35,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Leche de coco (idealmente natural o 2 latas espesas)",
+        "qty": 30,
+        "unit": "oz",
+        "price": 20,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Plátano verde (para rallar)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Plátano maduro (en rodajas gruesas)",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla blanca",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 3,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro y culantro de pata",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de plátano limpias",
+        "qty": 2,
+        "unit": "piezas grandes",
+        "price": 5,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Base Aromática",
+        "description": "En la olla grande, sofríe la cebolla, los ajos y los tomates finamente picados. Agrega la mitad del culantro y cilantro. Esto formará el sofrito base caribeño.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Sofreír base",
+          "minutes": 8
+        }
+      },
+      {
+        "title": "La Magia del Coco",
+        "description": "Vierte la leche de coco pura sobre el sofrito. Lleva a ebullición suave. Añade los plátanos maduros en rodajas y el caldo comenzará a tomar un toque dulce salado espectacular.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      },
+      {
+        "title": "Espesado Natural",
+        "description": "Mientras el coco hierve suavemente, pela los plátanos verdes y rállalos sobre un bol. Diluye la ralladura con un poco de agua o caldo, y viértela en la olla. Remueve para evitar grumos; notarás que el caldo se vuelve denso y aterciopelado.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800",
+        "timer": {
+          "name": "Espesar caldo",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Agregando los Tesoros del Mar",
+        "description": "Con el caldo espeso hirviendo suavemente, acomoda primero los cangrejos limpios y los pescados enteros. Al final, pon los camarones. Salpimienta generosamente.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Ritual del Tapado",
+        "description": "Toma las hojas de plátano (previamente pasadas por fuego para ablandarlas) y sella herméticamente la olla por encima de los ingredientes, metiendo los bordes hacia los lados. Tapa la olla y cocina a fuego muy lento para que se cueza al vapor con aromas a plátano y coco. No destapes hasta que esté listo.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Cocción al vapor",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "enchiladas-1",
+    "title": "Enchiladas Jardineras Guatemaltecas",
+    "description": "A diferencia de las mexicanas, la enchilada guatemalteca es una tostada crujiente cubierta de una montaña de coloridos vegetales (curtido rojo de remolacha), picadillo de carne y adornada con huevo duro, queso y salsa de tomate. Es arte comestible y un clásico de las ventas en ferias de los pueblos.",
+    "basePortions": 10,
+    "category": "Antojito / Cena",
+    "difficulty": "Media",
+    "prepTime": "60 min",
+    "cookTime": "30 min",
+    "temperature": "Frío y caliente mixto",
+    "rating": 4.6,
+    "author": "Antojitos de Feria",
+    "utensils": [
+      "Tabla de picar grande",
+      "Tazón de vidrio (para curtir)",
+      "Sartén",
+      "Rallador"
+    ],
+    "tips": "El curtido sabe mil veces mejor si lo preparas uno o dos días antes y lo mantienes en el refrigerador. Para que la tostada no se aguade rápido, pon una capa de lechuga antes del curtido.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Tostadas de maíz (gruesas)",
+        "qty": 10,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Repollo picado fino",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Remolacha cocida y rallada",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Zanahoria cocida rallada",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Vinagre blanco o de manzana",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Carne molida (res o cerdo)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 25,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Cebolla y ajo (para picadillo)",
+        "qty": 1,
+        "unit": "porción",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Huevos duros cortados en rodajas",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Queso seco rallado (duro)",
+        "qty": 4,
+        "unit": "oz",
+        "price": 10,
+        "store": "Lácteos"
+      },
+      {
+        "name": "Hojas de lechuga romana limpias",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Salsa de tomate casera (tipo chirmol suave)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 8,
+        "store": "Casero"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Preparación del Curtido Rojo",
+        "description": "Mezcla el repollo y la zanahoria (previamente blanqueados) con la remolacha cocida. Agrega vinagre, agua, orégano, sal y pimienta. El curtido tomará un hermoso y brillante color rojo púrpura. Déjalo reposar idealmente en frío.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Sofreír el Picadillo",
+        "description": "En una sartén con aceite, sofríe la cebolla y ajo finamente picados. Agrega la carne molida, salpimienta y sofríe hasta que esté bien dorada y seca (no debe quedar jugosa para no aguadar la tostada).",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Cocinar carne",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "El Armado - Paso 1: La Base",
+        "description": "Toma una tostada firme y coloca una hoja de lechuga fresca encima. Luego, pon una cucharada generosa del picadillo de carne bien distribuida.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      },
+      {
+        "title": "El Armado - Paso 2: La Montaña Roja",
+        "description": "Sobre la carne, escurre un poco de curtido (usando un tenedor) y colócalo formando un pequeño cerro en la tostada. ¡Sé generoso pero firme!",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Coronación Final",
+        "description": "Baña la punta de la montaña roja con un poco de salsa de tomate casera. Decora con rodajas de huevo duro, espolvorea queso seco rallado y perejil picado. ¡Cómetela rápido antes que se quiebre!",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "tamal-colorado-1",
+    "title": "Tamal Colorado",
+    "description": "El rey de la mesa navideña guatemalteca (y de los sábados por la noche). Un tamal monumental envuelto en hoja de plátano, hecho con masa de maíz sumamente hidratada con manteca, y relleno de un espeso recado colorado de tomate, carne de cerdo o pollo, aceitunas y alcaparras.",
+    "basePortions": 15,
+    "category": "Plato fuerte festivo",
+    "difficulty": "Avanzada",
+    "prepTime": "120 min",
+    "cookTime": "120 min",
+    "temperature": "Vapor a fuego medio",
+    "rating": 5,
+    "author": "Receta de las Fiestas",
+    "utensils": [
+      "Olla inmensa",
+      "Comal grande",
+      "Licuadora",
+      "Hojas de plátano",
+      "Pita de cibaque o hilo para amarrar"
+    ],
+    "tips": "El secreto de un tamal suave que se deshace en la boca es el trabajo de la masa; debe cocerse en olla primero, moviéndola con paleta constantemente (es un excelente ejercicio de brazos) hasta que al echar un trocito en agua, este flote.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Masa de maíz fina",
+        "qty": 3,
+        "unit": "lb",
+        "price": 20,
+        "store": "Molino"
+      },
+      {
+        "name": "Manteca de cerdo pura",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 25,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Carne de cerdo (posta) picada cruda",
+        "qty": 2,
+        "unit": "lb",
+        "price": 45,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomates de cocina maduros",
+        "qty": 2,
+        "unit": "lb",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate, ajo, cebolla, chile pimiento, chile guaque y pasa",
+        "qty": 1,
+        "unit": "mix para recado",
+        "price": 15,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajonjolí y Pepitoria tostados",
+        "qty": 2,
+        "unit": "cda",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de plátano (asadas o pasadas por fuego para limpiarlas) y hojas de maxán",
+        "qty": 3,
+        "unit": "manojos",
+        "price": 20,
+        "store": "Mercado"
+      },
+      {
+        "name": "Alcaparras, aceitunas, chiles pimientos en tiras",
+        "qty": 1,
+        "unit": "mix de relleno",
+        "price": 25,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocimiento Fuerte de la Masa",
+        "description": "Deslíe la masa en agua hasta que quede rala. En una olla grande, derrite la manteca y agrega la masa, salándolo al gusto. Cocina a fuego lento moviendo CONSTANTEMENTE con una paleta de madera, sin detenerse, hasta que la masa espese, haga borbotones y brille.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Mover la masa",
+          "minutes": 45
+        }
+      },
+      {
+        "title": "El Recado Colorado",
+        "description": "Asa tomates, miltomates, cebolla, ajo y chiles secos. Licúa con pepitoria y ajonjolí tostado. Fríe el recado en una sartén con manteca hasta que espese y se oscurezca un poco. Sazona.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Sofreír recado",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "Armado (El Centro del Sabor)",
+        "description": "Coloca una hoja de maxán sobre una hoja de plátano en forma de cruz. Vierte un cucharón de masa espesa cocida. Haz una cama en el centro, agrega recado abundante, un trozo de carne cruda, una aceituna, una alcaparra y una tira de chile pimiento dulce.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Envoltura y Amarre",
+        "description": "Dobla las orillas de la hoja hacia el centro cubriendo la masa firmemente formando un rectángulo perfecto. Amarra fuertemente cruzando con cibaque o cordel, garantizando que el paquete no se desarme.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      },
+      {
+        "title": "Cocción al Vapor Monumental",
+        "description": "Acomoda todos los tamales en una olla inmensa, cuya base tenga retazos de hojas y poca agua. Cubre con más hojas de plátano hasta arriba, ponle la tapadera y cocina al vapor por horas. El aroma llenará toda la casa anunciando que ya hay tamales.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Vapor de Tamales",
+          "minutes": 120
+        }
+      }
+    ]
+  },
+  {
+    "id": "atol-elote-1",
+    "title": "Atol de Elote",
+    "description": "Una bebida caliente prehispánica y reconfortante a base de maíz dulce (elote) tierno molido. Es la bebida por excelencia de las tardes frías o lluviosas en Guatemala, dulce, cremosa y con un sutil aroma a canela.",
+    "basePortions": 6,
+    "category": "Bebida",
+    "difficulty": "Fácil",
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "temperature": "Fuego lento",
+    "rating": 4.9,
+    "author": "Atoleras de la Antigua",
+    "utensils": [
+      "Licuadora",
+      "Colador fino o manta",
+      "Olla honda",
+      "Paleta de madera"
+    ],
+    "tips": "No dejes de mover el atol mientras hierve, de lo contrario se pegará al fondo y tomará sabor a quemado. El elote debe ser amarillo y tierno, si está muy sazón (duro), el atol quedará rasposo.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Elotes amarillos y tiernos desgranados",
+        "qty": 6,
+        "unit": "unidades",
+        "price": 12,
+        "store": "Mercado"
+      },
+      {
+        "name": "Leche entera",
+        "qty": 1,
+        "unit": "litro",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Azúcar",
+        "qty": 1,
+        "unit": "taza",
+        "price": 3,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Canela en raja",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "pizca",
+        "price": 0.5,
+        "store": "Abarrotería"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Licuado del Elote",
+        "description": "Licúa los granos de elote tierno con un poco de agua o parte de la leche hasta obtener una mezcla muy fina. Pasa esta mezcla por un colador fino o una manta para extraer solo el jugo y desechar el bagazo.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Licuar y colar",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Hervor Aromático",
+        "description": "Vierte el líquido colado en una olla. Agrega el resto de la leche, la canela en raja, el azúcar y la pizca de sal (la sal realza el dulzor natural del maíz).",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Cocción Lenta y Constante",
+        "description": "Cocina a fuego medio-bajo sin dejar de mover con una paleta de madera. El atol empezará a espesar rápidamente. Una vez que hierva a borbotones gruesos, apaga el fuego. Sirve inmediatamente espolvoreando un poco de canela en polvo arriba.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Mover el atol",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "shucos-1",
+    "title": "Shucos Guatemaltecos",
+    "description": "La comida callejera más famosa de la ciudad. Una reinterpretación brutal del hot dog, usando pan tostado al carbón, un untado generoso de guacamol, repollo cocido y embutidos asados a la parrilla (chorizo, longaniza, salchicha y tocino).",
+    "basePortions": 4,
+    "category": "Comida Rápida",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "temperature": "Parrilla caliente",
+    "rating": 4.8,
+    "author": "Carretas de la Esquina",
+    "utensils": [
+      "Parrilla o comal grande",
+      "Pinzas",
+      "Cuchillo de sierra"
+    ],
+    "tips": "El pan perfecto debe estar bien tostado por fuera y suave por dentro. No le quites la semilla al aguacate al hacer el guacamol hasta el momento de servirlo, para que no se ponga negro.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Panes para shuco (pan de hot dog alargado y suave)",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Panadería"
+      },
+      {
+        "name": "Chorizo guatemalteco (rojo)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Longaniza",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Salchicha grande",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Aguacates maduros",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 15,
+        "store": "Mercado"
+      },
+      {
+        "name": "Repollo picado cocido con sal y orégano",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Mostaza, Ketchup y Mayonesa",
+        "qty": 1,
+        "unit": "mix",
+        "price": 10,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Preparación del Guacamol y Repollo",
+        "description": "Pasa por agua hirviendo el repollo picado con orégano y escúrrelo bien. Por aparte, machaca los aguacates con sal y limón hasta formar un puré suave (guacamol).",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Cocer repollo",
+          "minutes": 5
+        }
+      },
+      {
+        "title": "El Asado de las Carnes",
+        "description": "En una parrilla o comal bien caliente, asa los chorizos, longanizas y salchichas partidos por la mitad a lo largo. Deja que doren bien por ambos lados.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Asar embutidos",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Armado del Shuco",
+        "description": "Corta el pan por en medio sin separarlo totalmente. Ásalo ligeramente por dentro. Unta generosamente ambos lados con guacamol. Pon una capa de repollo cocido y coloca encima los embutidos asados.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800"
+      },
+      {
+        "title": "Aderezo Final",
+        "description": "Baña el shuco con abundantes líneas de mostaza, mayonesa y salsa de tomate (ketchup). Si te gusta el picante, este es el momento de agregar salsa de chile cobanero.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "tostadas-3-salsas-1",
+    "title": "Tostadas Clásicas (Salsa, Frijol, Guacamol)",
+    "description": "El trío dinámico de las tardes chapinas. Una comida ligera o refacción consistente en tostadas crujientes de maíz untadas con frijol volteado, guacamol o salsa de tomate, coronadas con queso seco, perejil picado y cebolla.",
+    "basePortions": 6,
+    "category": "Antojito",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "temperature": "Frío",
+    "rating": 5,
+    "author": "Antojitos Chapines",
+    "utensils": [
+      "Licuadora",
+      "Tazones",
+      "Sartén",
+      "Cuchillo"
+    ],
+    "tips": "Para las tostadas de salsa, cocina bien el tomate con orégano y un toque de azúcar para cortar la acidez. El frijol debe estar bien espeso (volteado) para que no aguade la tostada.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Tostadas gruesas de maíz",
+        "qty": 18,
+        "unit": "unidades",
+        "price": 15,
+        "store": "Mercado/Supermercado"
+      },
+      {
+        "name": "Frijoles negros colados y fritos (volteados)",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Aguacates grandes maduros",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 12,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomates de cocina",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Queso seco o duro rallado",
+        "qty": 4,
+        "unit": "oz",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Perejil fresco picado",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla en rodajas muy finas",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Salsa de Tomate Casera",
+        "description": "Hierve los tomates con ajo y cebolla. Licúalos sin agua. Sofríe este puré en una sartén con aceite, orégano, sal, pimienta y un toque de azúcar hasta que espese un poco.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800",
+        "timer": {
+          "name": "Sofreír salsa",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Guacamol",
+        "description": "Machaca la pulpa de los aguacates. Agrega sal al gusto, un poco de limón y cebolla finamente picada. Mezcla bien hasta lograr un puré cremoso.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      },
+      {
+        "title": "Untar",
+        "description": "Toma las tostadas. A 6 de ellas, úntales generosamente frijol volteado. A otras 6, úntales el guacamol. Y a las últimas 6, báñalas con la salsa de tomate fría.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Decorado Clásico",
+        "description": "Espolvorea generosamente queso seco sobre todas las tostadas. Agrega un chorrito de perejil picado al centro y, si te gusta, un par de rodajas de cebolla sobre las de frijol y salsa. Sírvelas juntas para que contrasten los colores negro, verde y rojo.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "chiles-rellenos-1",
+    "title": "Chiles Rellenos",
+    "description": "Chiles pimientos asados y desvenados, rellenos de un picadillo de carne y verduras, envueltos en huevo batido a punto de nieve y fritos. Servidos comúnmente en un pan francés o con arroz y salsa.",
+    "basePortions": 6,
+    "category": "Plato fuerte",
+    "difficulty": "Avanzada",
+    "prepTime": "45 min",
+    "cookTime": "45 min",
+    "temperature": "Fritura media",
+    "rating": 4.7,
+    "author": "Cocina Diaria",
+    "utensils": [
+      "Comal",
+      "Sartén para freír",
+      "Batidora",
+      "Tabla de picar"
+    ],
+    "tips": "Al asar los chiles, mételos inmediatamente en una bolsa plástica por 10 minutos; el vapor hará que la piel se desprenda facilísimo. Bate las claras de huevo hasta que la espuma no se caiga al voltear el tazón.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Chiles pimientos medianos",
+        "qty": 6,
+        "unit": "unidades",
+        "price": 12,
+        "store": "Mercado"
+      },
+      {
+        "name": "Carne molida de res o cerdo",
+        "qty": 1,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Papas finamente picadas",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Zanahorias finamente picadas",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Huevos",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite para freír",
+        "qty": 1.5,
+        "unit": "taza",
+        "price": 8,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Asado y Pelado",
+        "description": "Asa los chiles enteros en el comal hasta que la piel esté negra. Mételos en una bolsa sellada por 10 min. Luego, pélalos, hazles un corte lateral y sácale todas las semillas con cuidado de no romperlos.",
+        "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=800",
+        "timer": {
+          "name": "Sudar chiles",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Picadillo",
+        "description": "Sofríe la carne molida con ajo y cebolla. Agrega la papa, zanahoria, ejote picado y cocina hasta que todo esté tierno y el relleno no tenga líquido.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Cocinar picadillo",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Rellenar",
+        "description": "Toma cada chile pelado y rellénalo firmemente con el picadillo. Trata de cerrar el corte para que recupere su forma original.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Envoltorio de Huevo",
+        "description": "Separa claras de yemas. Bate las claras a punto de nieve (hasta que formen picos firmes). Agrega las yemas suavemente, sal y un poco de harina para estabilizar la espuma.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "El Fritado",
+        "description": "Pasa los chiles rellenos por la espuma de huevo cubriéndolos por completo. Sumérgelos inmediatamente en aceite caliente. Dóralos de ambos lados y escúrrelos en papel toalla.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Freír chiles",
+          "minutes": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "bunuelos-1",
+    "title": "Buñuelos en Miel de Anís",
+    "description": "Un dulce tradicional frito a base de una masa muy esponjosa (tipo pâte à choux), bañada generosamente en una miel casera perfumada con anís y canela. Son un clásico de las celebraciones de la Virgen del Rosario y fin de año.",
+    "basePortions": 8,
+    "category": "Postre",
+    "difficulty": "Media",
+    "prepTime": "30 min",
+    "cookTime": "30 min",
+    "temperature": "Fritura profunda caliente",
+    "rating": 5,
+    "author": "Dulces Típicos",
+    "utensils": [
+      "Olla para miel",
+      "Sartén honda para freír",
+      "Paleta de madera",
+      "Cucharas"
+    ],
+    "tips": "El éxito de un buen buñuelo está en la masa: debe cocinarse la harina en el agua hirviendo y luego añadir los huevos uno por uno fuera del fuego. Se inflarán solos en el aceite.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Harina de trigo",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Huevos grandes",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite (para freír profundamente)",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Panela (rapadura) o azúcar morena",
+        "qty": 1,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Anís de estrella y canela en raja",
+        "qty": 1,
+        "unit": "porción",
+        "price": 3,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Miel de Anís",
+        "description": "En una olla, pon a hervir agua con la panela, la canela y el anís. Deja reducir a fuego lento hasta obtener un jarabe espeso y aromático. Apaga y reserva caliente.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Hervir miel",
+          "minutes": 25
+        }
+      },
+      {
+        "title": "La Masa (Primera fase)",
+        "description": "En otra olla, hierve el agua con una pizca de sal y un toque de manteca/mantequilla. Cuando hierva a borbotones, de golpe echa toda la harina y apaga el fuego. Remueve vigorosamente con la paleta de madera hasta que la masa se despegue de la olla y forme una bola.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "La Masa (Segunda fase)",
+        "description": "Deja entibiar la masa. Agrega los huevos UNO POR UNO, mezclando enérgicamente después de cada huevo hasta que se integre totalmente. La masa final debe ser elástica y brillante.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800"
+      },
+      {
+        "title": "Formar y Freír",
+        "description": "Calienta el aceite en un sartén hondo a fuego medio. Toma pequeñas porciones de masa con una cuchara y déjalas caer en el aceite caliente. Verás que ellos mismos se inflan y se dan vuelta solos cuando se doran por un lado.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír buñuelos",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "El Baño Dulce",
+        "description": "Sirve 3 o 4 buñuelos calientes en un plato hondo y báñalos generosamente con la miel de anís hirviendo.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "caldo-res-1",
+    "title": "Caldo de Res Chapín",
+    "description": "Sustancioso, abundante y muy nutritivo. Este es el caldo por excelencia para reponer fuerzas, con cortes de carne con hueso que dan mucho sabor, acompañados de grandes trozos de elote, güisquil, papa y repollo. Acompañado de tortillas negras, aguacate y limón.",
+    "basePortions": 6,
+    "category": "Sopa",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "120 min",
+    "temperature": "Hervor lento",
+    "rating": 4.9,
+    "author": "La Abuela",
+    "utensils": [
+      "Olla inmensa",
+      "Cucharón grande",
+      "Cuchillo de golpe"
+    ],
+    "tips": "El caldo queda infinitamente más sabroso si usas cortes con hueso como la aguja, el tuétano o la costilla, además de la posta. Desespuma constantemente durante la primera hora.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Posta de res (o bolovique)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 60,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Hueso de res (tuétano o costilla carnuda)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Elotes tiernos (partidos por la mitad)",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Güisquil verde",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Papas grandes",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Repollo en cuartos",
+        "qty": 0.5,
+        "unit": "unidad",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Zanahoria grande",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Yuca (opcional pero recomendada)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hierbabuena fresca",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 2,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción Lenta de las Carnes",
+        "description": "Lava las carnes y colócalas en una olla grande con abundante agua fría. Agrega sal, ajo entero y una cebolla blanca. Lleva a ebullición y quita la espuma gris que sube a la superficie. Cocina a fuego lento.",
+        "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800",
+        "timer": {
+          "name": "Cocer carne",
+          "minutes": 90
+        }
+      },
+      {
+        "title": "El Orden de las Verduras",
+        "description": "Las verduras deben agregarse según su dureza. Cuando la carne empiece a ablandar, echa los trozos de elote y la yuca. Quince minutos después, agrega la zanahoria y el güisquil.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Verduras duras",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Verduras Suaves",
+        "description": "Por último, agrega las papas cortadas a la mitad y los cuartos de repollo. Esto evitará que se deshagan en el caldo.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Verduras suaves",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Aroma Final",
+        "description": "Apaga el fuego cuando todo esté cocido. Echa un buen manojo de hierbabuena fresca, tapa la olla y deja reposar 5 minutos. El aroma será espectacular.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "rellenitos-1",
+    "title": "Rellenitos de Plátano Fritos",
+    "description": "Pequeñas esferas dulces elaboradas con puré de plátano macho maduro, rellenas en su interior de frijoles volteados o manjar de vainilla, fritas hasta quedar crujientes por fuera y suaves por dentro. Se sirven espolvoreadas con azúcar.",
+    "basePortions": 12,
+    "category": "Postre / Refacción",
+    "difficulty": "Media",
+    "prepTime": "30 min",
+    "cookTime": "25 min",
+    "temperature": "Fritura media",
+    "rating": 5,
+    "author": "Dulces Tradicionales",
+    "utensils": [
+      "Olla",
+      "Tenedor para majar",
+      "Sartén",
+      "Papel absorbente"
+    ],
+    "tips": "El puré de plátano no necesita azúcar extra ni harina, la textura se logra cociéndolo bien y amasando. El aceite no debe estar hiper caliente para que no se quemen por fuera quedando crudos de la masa.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Plátanos maduros grandes (cáscara casi negra)",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Frijoles negros volteados, dulces (con azúcar, chocolate y canela)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 6,
+        "store": "Casero"
+      },
+      {
+        "name": "Azúcar (para espolvorear)",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 2,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Canela en polvo",
+        "qty": 1,
+        "unit": "cda",
+        "price": 1,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Aceite para freír",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocer y Majar los Plátanos",
+        "description": "Corta los plátanos en rodajas y cuécelos en agua (puedes dejarlos con cáscara para que absorban menos agua). Escúrrelos, pélalos y usa un tenedor o triturador para hacerlos puré hasta que sea una masa suave sin grumos. Déjala enfriar.",
+        "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=800",
+        "timer": {
+          "name": "Hervir plátanos",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "El Frijol Dulce (El Relleno)",
+        "description": "Asegúrate de que los frijoles volteados sean dulces; fríelos con un poco de azúcar, canela en polvo y un cuadrito de chocolate hasta que sean una pasta firme que no se escurra.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      },
+      {
+        "title": "Armar los Rellenitos",
+        "description": "Humedece un poco tus manos para que la masa no se pegue. Toma una porción de puré de plátano y haz una tortilla cóncava (como nido) en tu mano. Pon una cucharadita del frijol dulce en el centro y cierra la masa dándole forma de huevito u óvalo alargado.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Freír",
+        "description": "Fríelos en el sartén con aceite caliente, girándolos suavemente para que doren parejo. Toman un color oscuro rápido debido al azúcar natural del plátano. Escurre en papel.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír",
+          "minutes": 8
+        }
+      },
+      {
+        "title": "Servir",
+        "description": "Aún tibios, espolvoréalos generosamente con el azúcar granulada pura (o mezclada con canela).",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "tamalitos-chipilin-1",
+    "title": "Tamalitos de Chipilín",
+    "description": "Sencillos, rústicos y deliciosos. Masa de maíz amasada con manteca y combinada con las hojas de una planta nativa (el chipilín), que les otorga su característico sabor herbáceo. Se comen calientes como acompañamiento o rociados con queso y salsa.",
+    "basePortions": 15,
+    "category": "Acompañamiento",
+    "difficulty": "Fácil",
+    "prepTime": "30 min",
+    "cookTime": "60 min",
+    "temperature": "Vapor",
+    "rating": 4.5,
+    "author": "Cocina de Campo",
+    "utensils": [
+      "Olla vaporera",
+      "Tazón grande"
+    ],
+    "tips": "El chipilín suelta todo su sabor si amasas las hojas crudas directamente con la masa. No omitas la manteca, de lo contrario quedarán duros.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de maíz fina",
+        "qty": 2,
+        "unit": "lb",
+        "price": 10,
+        "store": "Molino"
+      },
+      {
+        "name": "Hojas de chipilín fresco (sin tallos)",
+        "qty": 1.5,
+        "unit": "taza",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Manteca de cerdo derretida",
+        "qty": 4,
+        "unit": "oz",
+        "price": 6,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "cda",
+        "price": 0.5,
+        "store": "Casa"
+      },
+      {
+        "name": "Hojas de tusa (maíz seco)",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 5,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Preparar la Masa",
+        "description": "Deshoja el chipilín para usar solo las hojitas crudas y lavadas. En un recipiente grande, amasa la masa de maíz con la manteca, sal y un poco de agua hasta que esté manejable y sazonada. Incorpora las hojas de chipilín integrándolas bien en la masa.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Envolver en Tusa",
+        "description": "Toma una tusa previamente hidratada en agua caliente. Coloca unas dos cucharadas colmadas de la masa en el extremo ancho de la tusa, envuélvelo girando la hoja y dobla la punta estrecha hacia atrás para sellar el paquete. (No requiere amarre).",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Cocer al Vapor",
+        "description": "Colócalos parados en una olla vaporera. Cocina al vapor durante aproximadamente una hora hasta que al abrir un tamalito la masa se despegue limpia de la hoja.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Vaporera",
+          "minutes": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "atol-platano-1",
+    "title": "Atol de Plátano",
+    "description": "Otra de las bebidas calientes favoritas de la época lluviosa. Es un atol de color rosado oscuro o ámbar, denso y aromático, elaborado con la cocción de plátano macho maduro, endulzado con panela y especias.",
+    "basePortions": 6,
+    "category": "Bebida",
+    "difficulty": "Fácil",
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "temperature": "Hervor suave",
+    "rating": 4.6,
+    "author": "Atoles de Feria",
+    "utensils": [
+      "Licuadora",
+      "Olla de peltre o metal"
+    ],
+    "tips": "El plátano debe estar lo más maduro posible (cáscara negra), esto le da su dulzor y color característico oscuro, evitando que necesites mucha panela.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Plátanos muy maduros",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Agua",
+        "qty": 1.5,
+        "unit": "litro",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Canela en raja grande",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Pimienta gorda",
+        "qty": 4,
+        "unit": "granos",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Panela (rapadura) o azúcar morena",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 5,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hervir el Plátano",
+        "description": "Lava los plátanos, córtales las puntas y pártelos a la mitad con todo y cáscara. Ponlos a hervir en una olla con el agua, canela y pimienta gorda hasta que la cáscara se rompa y estén muy suaves.",
+        "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=800",
+        "timer": {
+          "name": "Hervir plátano",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Licuar y Colar",
+        "description": "Saca los plátanos, pélalos (desecha la cáscara) y licúa la pulpa usando un poco del agua aromática de la cocción. Pasa el licuado grueso a la olla de nuevo.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Cocción Final con Panela",
+        "description": "Agrega más agua si es necesario para dar el espesor deseado de atol. Agrega la panela y hierve a fuego lento removiendo constantemente hasta que todo se integre y espese. Sirve hirviendo.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Mover atol",
+          "minutes": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "garnachas-1",
+    "title": "Garnachas Antigüeñas",
+    "description": "Bocadillos crujientes consistentes en tortillas muy pequeñas fritas, con un centro de carne molida sofrita de forma muy particular, bañadas con salsa de tomate y servidas con un curtido agridulce de repollo por encima.",
+    "basePortions": 4,
+    "category": "Antojito",
+    "difficulty": "Media",
+    "prepTime": "30 min",
+    "cookTime": "20 min",
+    "temperature": "Fritura media",
+    "rating": 4.8,
+    "author": "Antojitos de Feria",
+    "utensils": [
+      "Sartén grande de fondo grueso",
+      "Licuadora",
+      "Tazón"
+    ],
+    "tips": "El éxito de la garnacha es que la carne quede casi pegada o embebida en la masa. Las señoras en la feria las fríen con la carne puesta encima en abundante aceite.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Tortillas muy pequeñas (tipo moneda grande) de masa gruesa",
+        "qty": 20,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Tortillería"
+      },
+      {
+        "name": "Carne molida de res",
+        "qty": 1,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomates maduros",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Repollo finamente picado",
+        "qty": 0.5,
+        "unit": "unidad",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Vinagre y sal para curtir",
+        "qty": 1,
+        "unit": "mix",
+        "price": 3,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Curtido Blanco Simple",
+        "description": "Lava el repollo picado con agua caliente. Escúrrelo y agrégale abundante sal, vinagre de manzana y orégano. Déjalo reposar para que se encurta. (Debe quedar crujiente y ácido).",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Preparación de Carne y Salsa",
+        "description": "Sofríe la carne molida con cebolla finamente picada, sal y pimienta. Asegúrate de que quede muy suelta. Por aparte, haz una salsa rala cociendo tomates y licuándolos con poca sal.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Cocinar carne",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Fritura Ensamblada",
+        "description": "Calienta aceite en un sartén. Coloca una cucharada pequeña de la carne molida sobre el centro de cada tortillita e inmediatamente sumérgelas en el aceite caliente. El borde de la masa se pondrá crujiente.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír garnachas",
+          "minutes": 5
+        }
+      },
+      {
+        "title": "Servir Rápidamente",
+        "description": "Escurre las tortillitas. Sírvelas en un plato, ponles un poco de curtido en el centro de cada una, y justo al llevarlas a la mesa, báñalas con la salsa de tomate tibia y espolvorea queso seco.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "ceviche-camaron-1",
+    "title": "Ceviche de Camarón Chapín",
+    "description": "Frescura del Pacífico en tu mesa. El ceviche guatemalteco se caracteriza por su abundante 'caldito' oscuro a base de tomate, salsa inglesa y soya, combinado con la acidez del jugo de limón, la cebolla morada crujiente y hierbabuena fresca. Ideal para un sábado al mediodía.",
+    "basePortions": 4,
+    "category": "Mariscos / Entrada",
+    "difficulty": "Fácil",
+    "prepTime": "30 min",
+    "cookTime": "0 min",
+    "temperature": "Frío",
+    "rating": 5,
+    "author": "Costa del Pacífico",
+    "utensils": [
+      "Tazón grande de vidrio",
+      "Exprimidor de limones",
+      "Cuchillo afilado"
+    ],
+    "tips": "El secreto del color oscuro y el sabor umami está en la salsa inglesa (tipo Lea & Perrins). Si no consigues camarones súper frescos, puedes darles un ligerísimo hervor de 1 minuto antes de curtirlos en el limón.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Camarones medianos crudos (pelados y limpios)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 60,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Jugo de limón recién exprimido",
+        "qty": 1.5,
+        "unit": "taza",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomates de cocina firmes",
+        "qty": 5,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla morada grande",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro y Hierbabuena fresca",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Salsa inglesa",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 8,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Salsa de soya",
+        "qty": 2,
+        "unit": "cda",
+        "price": 2,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Jugo de tomate (tipo V8 o Kermato)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Galletas soda",
+        "qty": 1,
+        "unit": "paquete",
+        "price": 5,
+        "store": "Abarrotería"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Curtido del Camarón",
+        "description": "Lava muy bien los camarones. Si son muy grandes, pártelos por la mitad. Colócalos en el tazón de vidrio y báñalos completamente con el jugo de limón y abundante sal. Déjalos reposar en el refrigerador hasta que cambien a un color rosado opaco.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Curtir en limón",
+          "minutes": 25
+        }
+      },
+      {
+        "title": "El Picado Fino",
+        "description": "Mientras el camarón se curte, pica finamente la cebolla morada, los tomates (quitándoles el exceso de semillas) y las hojas de cilantro y hierbabuena. Entre más fino el picado, mejor la textura del ceviche.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "La Mezcla de Sabores",
+        "description": "Saca los camarones del refrigerador. No botes el jugo de limón. Agrega la cebolla, el tomate y las hierbas. Vierte la salsa inglesa, la soya y el jugo de tomate frío.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      },
+      {
+        "title": "Ajuste y Servicio",
+        "description": "Mezcla todo con cuidado. Prueba y ajusta la sal y el limón. Debe quedar jugoso (con bastante 'caldito'). Sirve en copas grandes de vidrio y acompaña con galletas soda, salsa picante y aguacate partido.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "ceviche-conchas-1",
+    "title": "Ceviche de Conchas Negras",
+    "description": "Un manjar del Pacífico guatemalteco. Este ceviche tiene un sabor a mar muy pronunciado y un característico color negro azabache proveniente de la sangre de la concha negra. Es famoso por sus propiedades revitalizantes.",
+    "basePortions": 2,
+    "category": "Mariscos / Entrada",
+    "difficulty": "Media",
+    "prepTime": "20 min",
+    "cookTime": "0 min",
+    "temperature": "Frío",
+    "rating": 4.9,
+    "author": "Costa Sur",
+    "utensils": [
+      "Cuchillo especial para ostras/conchas",
+      "Tazón hondo",
+      "Cuchara sopera"
+    ],
+    "tips": "Abrir las conchas requiere técnica: busca la pequeña hendidura en la parte superior, inserta el cuchillo corto y gira. Recolecta CADA GOTA del jugo negro que sueltan, esa es la esencia del ceviche.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Conchas negras frescas (Pata de mula)",
+        "qty": 24,
+        "unit": "unidades",
+        "price": 45,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Jugo de limón",
+        "qty": 6,
+        "unit": "limones",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla morada picada",
+        "qty": 1,
+        "unit": "taza",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate finamente picado",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro y Hierbabuena picada",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Salsa inglesa",
+        "qty": 2,
+        "unit": "cda",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Apertura y Extracción",
+        "description": "Lava muy bien las conchas por fuera con un cepillo. Ábrelas cuidadosamente con un cuchillo fuerte. Vierte el interior (la carne y el líquido negro) directamente en el tazón. Raspa bien las valvas.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Abrir conchas",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "La Curación Ácida",
+        "description": "Una vez toda la carne y jugo esté en el tazón, agrega el jugo de limón y sal. Revuelve suavemente. Verás que la carne de la concha se encoge ligeramente por la acidez.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Vegetales y Servir",
+        "description": "Inmediatamente agrega la cebolla, tomate y hierbas picadas. Añade unas gotas de salsa inglesa (no demasiada para no ocultar el sabor a mar). Mezcla bien, añade unas gotas de chile cobanero y sirve rápido con galletas saladas.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "subanik-1",
+    "title": "Subanik Ceremonial",
+    "description": "El 'Tamal de Dios'. Un guiso prehispánico originario de San Martín Jilotepeque. Consiste en tres carnes bañadas en un recado rojo y picante, cocidas al vapor dentro de un nido de hojas de maxán en forma de corona. Se amarra con cibaque y se desata en la mesa.",
+    "basePortions": 8,
+    "category": "Plato fuerte festivo",
+    "difficulty": "Avanzada",
+    "prepTime": "45 min",
+    "cookTime": "120 min",
+    "temperature": "Vapor profundo",
+    "rating": 5,
+    "author": "Chimaltenango",
+    "utensils": [
+      "Olla inmensa tipo tamalera",
+      "Hojas de maxán",
+      "Cibaque",
+      "Licuadora",
+      "Comal"
+    ],
+    "tips": "El nido de hojas (la corona) debe ser hermético. Se colocan las hojas en el fondo de la olla formando una flor o canasta, se vierte la carne cruda y el recado, y se amarran todas las puntas hacia arriba.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Carne de res (bolovique cortado en trozos)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Carne de cerdo (posta o costilla)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 25,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Pollo (piezas deshuesadas)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 15,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomates asados",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate asado",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chiles pimientos y chile guaque asados",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile chiltepe o cobanero",
+        "qty": 1,
+        "unit": "porción",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de maxán grandes",
+        "qty": 10,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Masa de maíz (para espesar un poco)",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 2,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Recado Subanik",
+        "description": "Asa muy bien los tomates, miltomates, cebolla, ajos y toda la variedad de chiles. Licúa todo hasta obtener una salsa roja fina. Si deseas, añade un poco de masa diluida para darle cuerpo, aunque el tradicional es más líquido.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Asar vegetales",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "Formar el Nido (La Corona)",
+        "description": "En una olla muy grande y ancha, coloca las hojas de maxán (previamente limpias y suavizadas al fuego) desde el centro hacia afuera, solapándolas en forma de flor, dejando que las puntas cuelguen fuera de la olla.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Relleno Trío",
+        "description": "Corta todas las carnes CRUDAS en trozos medianos y sazónalas con sal y pimienta. Colócalas en el centro de la flor de hojas. Vierte todo el recado licuado sobre las carnes crudas.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Amarre Ceremonial",
+        "description": "Con ayuda de otra persona, levanten todas las puntas de las hojas de maxán hacia el centro, encerrando la carne y los jugos. Aten fuertemente el penacho con tiras de cibaque para formar un gran paquete hermético dentro de la olla.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      },
+      {
+        "title": "Cocción Oculta",
+        "description": "Agrega agua a la olla (por fuera del paquete de hojas) hasta alcanzar unos 10 cm de altura. Tapa la olla y cocina al vapor. El paquete de hojas retendrá la presión, cociendo la carne en sus propios jugos.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Cocción al vapor",
+          "minutes": 120
+        }
+      }
+    ]
+  },
+  {
+    "id": "revolcado-1",
+    "title": "Revolcado de Cerdo",
+    "description": "Un guiso denso e intenso que aprovecha la cabeza y los menudos del cerdo, bañados en un recado espeso que combina el sabor del tomate, miltomate y el achiote. Es un manjar de los mercados populares.",
+    "basePortions": 8,
+    "category": "Plato fuerte",
+    "difficulty": "Avanzada",
+    "prepTime": "30 min",
+    "cookTime": "150 min",
+    "temperature": "Hervor lento",
+    "rating": 4.5,
+    "author": "Cocina de Mercado",
+    "utensils": [
+      "Olla grande",
+      "Licuadora",
+      "Comal",
+      "Sartén"
+    ],
+    "tips": "La cocción de la cabeza de cerdo es crucial. Lávala exhaustivamente con limón y sal antes de hervirla. Pide al carnicero que la parta en trozos manejables.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Cabeza de cerdo en trozos (y algo de hígado si se desea)",
+        "qty": 3,
+        "unit": "lb",
+        "price": 45,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomate maduro",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile guaque",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Masa de maíz (para espesar)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 2,
+        "store": "Molino"
+      },
+      {
+        "name": "Achiote",
+        "qty": 1,
+        "unit": "cda",
+        "price": 1,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Limpieza y Hervor de la Carne",
+        "description": "Lava muy bien las carnes con limón. Hierve en abundante agua con sal, cebolla y ajo hasta que la carne esté suave y se desprenda del hueso de la cabeza. Retira del caldo, pica la carne finamente y reserva el caldo.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Cocer cabeza",
+          "minutes": 120
+        }
+      },
+      {
+        "title": "El Recado Rojo",
+        "description": "Asa en el comal el tomate, miltomate, cebolla, chiles guaque (sin semillas) y ajos. Licúa y pasa por un colador.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Asar y licuar",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Sofreír el Recado",
+        "description": "En una olla honda, calienta aceite o manteca de cerdo y sofríe el recado licuado. Disuelve el achiote para darle más color.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "El 'Revolcado'",
+        "description": "Agrega la carne picada al recado. Disuelve la masa de maíz en un poco del caldo reservado (fresco) y agrégala a la olla. Mueve constantemente a fuego lento. El recado debe volverse muy espeso y abrazar por completo la carne.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Espesar revolcado",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "iguaxte-1",
+    "title": "Iguaxte (Iguaste)",
+    "description": "Una receta ancestral puramente vegetariana (aunque a veces se le añade pollo). Su base es la pepitoria tostada molida combinada con miltomate y vegetales como ejotes y papas. Es un recado rústico, verde pálido, espeso y con un sabor increíble a semillas.",
+    "basePortions": 4,
+    "category": "Plato fuerte / Vegetariano",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "temperature": "Fuego bajo",
+    "rating": 4.3,
+    "author": "Recetas Indígenas",
+    "utensils": [
+      "Comal",
+      "Licuadora",
+      "Olla"
+    ],
+    "tips": "El alma del plato es la pepitoria. Debes tostarla muy bien a fuego lento, sin dejarla quemar. El Iguaxte tiende a espesar mucho, así que ten agua caliente o caldo de vegetales a mano.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pepitoria (semilla de calabaza)",
+        "qty": 8,
+        "unit": "oz",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate verde",
+        "qty": 1,
+        "unit": "lb",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 2,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Papas",
+        "qty": 1,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ejotes",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile verde picante (opcional)",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 1,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tostar y Moler Pepitoria",
+        "description": "En un comal caliente a fuego bajo, tuesta la pepitoria removiéndola hasta que se infle y dore. Pásala a la licuadora en seco y muélela hasta obtener un polvo fino.",
+        "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=800",
+        "timer": {
+          "name": "Tostar pepitoria",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Caldito Verde",
+        "description": "Hierve los miltomates, cebolla, ajo y el chile en poca agua. Licúa estos vegetales junto con el agua de cocción.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Vegetales Base",
+        "description": "En una olla aparte, cuece las papas cortadas en cuadros y los ejotes partidos por la mitad, con un poco de sal.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "La Unión del Iguaxte",
+        "description": "A la olla con los vegetales cocidos, agrégales el miltomate licuado y el polvo de pepitoria. Revuelve bien. Hervirá y espesará casi inmediatamente. Salpimienta y sirve con tortillas de maíz salidas del comal.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Espesar",
+          "minutes": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "frijoles-blancos-1",
+    "title": "Frijoles Blancos con Espinazo de Cerdo",
+    "description": "Un guiso casero espectacular, espeso y aromático. Los frijoles blancos se cuecen lentamente hasta crear una crema suave, acompañados de costilla o espinazo de cerdo y un recado de tomate y ajo. Clásico de los jueves o domingos.",
+    "basePortions": 6,
+    "category": "Sopa / Plato fuerte",
+    "difficulty": "Media",
+    "prepTime": "Cargar noche anterior",
+    "cookTime": "120 min",
+    "temperature": "Hervor lento",
+    "rating": 4.8,
+    "author": "Recetario Central",
+    "utensils": [
+      "Olla de presión",
+      "Sartén",
+      "Licuadora"
+    ],
+    "tips": "Remojar los frijoles blancos desde la noche anterior en abundante agua fría es mandatorio. Usa espinazo de cerdo, ya que los huesos aportan una gelatina natural que espesa el caldo divinamente.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Frijol blanco seco",
+        "qty": 1,
+        "unit": "lb",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Espinazo o costilla de cerdo",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 35,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 4,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 2,
+        "unit": "oz",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Orégano seco",
+        "qty": 1,
+        "unit": "pizca",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción Base",
+        "description": "Después del remojo nocturno, lava los frijoles y ponlos en la olla de presión junto con el espinazo de cerdo, abundante agua, media cebolla y sal. Cocina a presión hasta que el frijol y la carne estén muy suaves.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Olla de presión",
+          "minutes": 45
+        }
+      },
+      {
+        "title": "El Recado",
+        "description": "Mientras tanto, asa el tomate, miltomate, la otra media cebolla y los ajos en un comal. Licúalos bien y fríe esta salsa en una sartén con una pizca de orégano.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Sofreír salsa",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Espesado Final",
+        "description": "Abre la olla de presión con cuidado. Agrega la salsa frita a los frijoles y la carne. Deja hervir a fuego lento y sin tapadera para que el caldo se evapore un poco y el guiso quede espeso.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Hervor abierto",
+          "minutes": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "pollo-crema-loroco-1",
+    "title": "Pollo en Crema con Loroco",
+    "description": "Una fusión delicada y muy aromática originaria del oriente de Guatemala. Pechugas o piezas de pollo bañadas en una crema blanca espesa, enriquecida con la inconfundible flor de loroco y rodajas de cebolla.",
+    "basePortions": 4,
+    "category": "Plato fuerte",
+    "difficulty": "Fácil",
+    "prepTime": "15 min",
+    "cookTime": "35 min",
+    "temperature": "Fuego lento",
+    "rating": 4.6,
+    "author": "Oriente",
+    "utensils": [
+      "Sartén honda con tapadera",
+      "Cuchara de madera"
+    ],
+    "tips": "Agrega el loroco en los últimos 5 minutos de cocción; si hierve demasiado, perderá su aroma y se volverá amargo. La crema debe ser crema pura de vaca (no ácida ni artificial).",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pechugas de pollo enteras o en trozos",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 25,
+        "store": "Pollería"
+      },
+      {
+        "name": "Crema pura y espesa (nata)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 12,
+        "store": "Lácteos"
+      },
+      {
+        "name": "Loroco fresco (flores enteras o ligeramente picadas)",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 15,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla blanca en julianas",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 2,
+        "unit": "cda",
+        "price": 4,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Ajo finamente picado",
+        "qty": 2,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sellado del Pollo",
+        "description": "En la sartén honda, derrite la mantequilla. Sazona el pollo con sal y pimienta y dóralo bien por todos sus lados a fuego medio-alto.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Sellar pollo",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Cocción con Cebolla",
+        "description": "Agrega la cebolla en julianas y el ajo al sartén con el pollo. Baja el fuego, tapa el sartén y deja que la cebolla sude y el pollo se termine de cocer en sus propios jugos.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Sudar",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "La Crema y el Loroco",
+        "description": "Destapa el sartén, agrega la taza de crema y mezcla bien. Inmediatamente echa el loroco fresco esparcido por toda la crema. Deja calentar a fuego muy bajo sin que hierva fuerte para que la crema no se corte.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Infundir loroco",
+          "minutes": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "tayuyos-1",
+    "title": "Tayuyos Tradicionales",
+    "description": "Tortillas de masa de maíz más gruesas de lo normal, que esconden en su centro un corazón oscuro de frijoles volteados o chicharrón molido. Son el desayuno de campeones en el altiplano guatemalteco.",
+    "basePortions": 8,
+    "category": "Desayuno / Acompañamiento",
+    "difficulty": "Media",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "temperature": "Comal muy caliente",
+    "rating": 4.4,
+    "author": "Altiplano Central",
+    "utensils": [
+      "Comal de barro o hierro",
+      "Plástico limpio para palmear"
+    ],
+    "tips": "El frijol debe estar excepcionalmente espeso (duro) para que no rompa la masa al momento de palmear la tortilla. Humedece ligeramente tus dedos con agua para cerrar las grietas de la masa.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de maíz fina",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Molino"
+      },
+      {
+        "name": "Frijoles negros muy volteados (fritos y espesos)",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Chicharrón de cerdo molido (opcional, para mixtos)",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 8,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Manteca de cerdo o aceite",
+        "qty": 2,
+        "unit": "cda",
+        "price": 2,
+        "store": "Casa"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "cda",
+        "price": 0.5,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Amasado",
+        "description": "Amasa la masa de maíz con un poco de sal, agua tibia y las dos cucharadas de manteca derretida para darle más flexibilidad y sabor.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "El Relleno",
+        "description": "Toma una bola de masa grande, haz un hueco en el centro con tu pulgar, parecido a un pequeño tazón. Rellena el hueco con frijol espeso (o chicharrón). Cierra la masa sobre el relleno pellizcándola.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Palmeo y Cocción",
+        "description": "Usando un trozo de plástico (como de bolsa limpia) o tus manos mojadas, palmea suavemente la bola hasta aplanarla en forma de tortilla gruesa, con cuidado de no exponer el frijol. Ponla en el comal bien caliente.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Dar Vuelta",
+        "description": "Voltea el tayuyo cuando los bordes cambien de color. Debe quedar con costras tostadas por fuera pero suave y húmedo por dentro.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Cocer al comal",
+          "minutes": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": "tortillas-harina-1",
+    "title": "Tortillas de Harina (Estilo Puerto Barrios)",
+    "description": "A diferencia de la pequeña tortilla del centro del país, en el caribe guatemalteco dominan estas gigantes, delgadas y elásticas tortillas de harina de trigo, base indispensable para las 'baleadas' o para acompañar frijoles fritos y coco.",
+    "basePortions": 10,
+    "category": "Acompañamiento",
+    "difficulty": "Media",
+    "prepTime": "45 min",
+    "cookTime": "15 min",
+    "temperature": "Comal a fuego medio",
+    "rating": 4.7,
+    "author": "Izabal",
+    "utensils": [
+      "Comal grande",
+      "Rodillo",
+      "Tazón grande",
+      "Paño limpio"
+    ],
+    "tips": "El éxito está en el reposo. La masa debe descansar al menos 30 minutos cubierta con un paño para que el gluten se relaje; si no lo haces, la masa se encogerá al estirarla como un elástico.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Harina de trigo suave",
+        "qty": 1,
+        "unit": "lb",
+        "price": 8,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Manteca vegetal (o aceite o aceite de coco)",
+        "qty": 0.25,
+        "unit": "taza",
+        "price": 4,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Polvo de hornear (royal)",
+        "qty": 1,
+        "unit": "cucharadita",
+        "price": 1,
+        "store": "Casa"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "cucharadita",
+        "price": 0.5,
+        "store": "Casa"
+      },
+      {
+        "name": "Leche tibia (o agua tibia)",
+        "qty": 0.75,
+        "unit": "taza",
+        "price": 3,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Mezcla Seca y Grasa",
+        "description": "En un tazón, mezcla la harina, el polvo de hornear y la sal. Agrega la manteca vegetal y con las manos deshazla contra la harina hasta formar una textura arenosa.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "El Amasado y Reposo",
+        "description": "Vierte la leche tibia poco a poco, amasando hasta que la masa ya no se pegue a las manos ni al tazón (unos 10 minutos de amasado). Forma bolas del tamaño de una pelota de golf. Úntalas con un poquito de aceite, cúbrelas con un paño y déjalas reposar.",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800",
+        "timer": {
+          "name": "Reposo de masa",
+          "minutes": 30
+        }
+      },
+      {
+        "title": "Estirado",
+        "description": "Toma una bola reposada. Estírala sobre una superficie ligeramente enharinada usando un rodillo (o usando los nudillos y estirando los bordes con los dedos) hasta que quede muy, muy delgada y grande.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Al Comal",
+        "description": "Coloca la tortilla extendida en el comal caliente. En segundos empezarán a salir burbujas. Voltéala inmediatamente. Cocínala unos segundos más por el otro lado. Guárdalas en una servilleta de tela gruesa para que no se resequen.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "dobladas-queso-1",
+    "title": "Dobladas Tradicionales",
+    "description": "Básicamente la empanada frita guatemalteca, pero de masa de maíz. Consiste en tortillas rellenas de queso, papa o carne, dobladas por la mitad, selladas y fritas en abundante aceite hasta quedar crujientes. Servidas con repollo y salsa de tomate.",
+    "basePortions": 10,
+    "category": "Antojito",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "temperature": "Fritura caliente",
+    "rating": 4.5,
+    "author": "Antojitos de Feria",
+    "utensils": [
+      "Prensa para tortillas (opcional)",
+      "Sartén",
+      "Plástico"
+    ],
+    "tips": "El relleno no debe estar jugoso, si usas carne cocínala bien seca. Si usas queso fresco, asegúrate de desmoronarlo bien. Para que no se abran en el aceite, presiona firmemente los bordes.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de maíz",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Molino"
+      },
+      {
+        "name": "Queso fresco (desmoronado) o Quesillo",
+        "qty": 1,
+        "unit": "lb",
+        "price": 15,
+        "store": "Lácteos"
+      },
+      {
+        "name": "Papa cocida machacada con cebolla picada",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite para freír",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Repollo picado y salsa de tomate (para acompañar)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 8,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Tortilla Fina",
+        "description": "Haz una bola de masa. Usando una tortillera de metal y dos trozos de plástico, aplasta la bola hasta formar una tortilla delgada y uniforme.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Rellenar y Doblar",
+        "description": "Aún sobre el plástico, pon una cucharada de la papa o el queso en el centro de la tortilla. Con ayuda del plástico, levanta un lado de la tortilla y dóblalo sobre el otro, formando una media luna. Presiona los bordes para sellar.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Freír Crujiente",
+        "description": "Desprende el plástico con cuidado. Desliza la doblada en el aceite bien caliente. Fríe de ambos lados hasta que la masa quede dorada y súper crujiente.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír dobladas",
+          "minutes": 6
+        }
+      },
+      {
+        "title": "Servicio Callejero",
+        "description": "Escúrrelas paradas sobre papel. Sírvelas acostadas, cúbrelas con curtido de repollo blanco, báñalas en salsa de tomate rojo y espolvorea queso seco por encima.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "panes-pollo-1",
+    "title": "Panes con Pollo Tradicionales",
+    "description": "El infaltable de los cumpleaños, convivios y fines de semana. Un pan francés grande (o pirujo) relleno de pechuga de pollo desmenuzada y bañada en un recado rojo suave, acompañado de mayonesa, repollo, remolacha y mostaza.",
+    "basePortions": 10,
+    "category": "Antojito / Plato fuerte",
+    "difficulty": "Fácil",
+    "prepTime": "30 min",
+    "cookTime": "45 min",
+    "temperature": "Caliente",
+    "rating": 4.9,
+    "author": "Recetas de Fiesta",
+    "utensils": [
+      "Olla",
+      "Licuadora",
+      "Sartén",
+      "Tabla para picar"
+    ],
+    "tips": "El pan debe ser 'francés grande' o pirujo para que soporte la humedad del recado sin romperse. La mezcla de mostaza y mayonesa untada en el pan es clave para el sabor característico.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pechugas de pollo enteras",
+        "qty": 3,
+        "unit": "lb",
+        "price": 45,
+        "store": "Pollería"
+      },
+      {
+        "name": "Panes franceses grandes o pirujos",
+        "qty": 10,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Panadería"
+      },
+      {
+        "name": "Tomates maduros",
+        "qty": 2,
+        "unit": "lb",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 3,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile pimiento rojo",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de laurel y tomillo",
+        "qty": 1,
+        "unit": "porción",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Mayonesa y mostaza",
+        "qty": 1,
+        "unit": "taza",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Repollo en tiras (pasado por agua caliente)",
+        "qty": 3,
+        "unit": "tazas",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Remolacha cocida en rodajas (opcional)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción del Pollo",
+        "description": "Hierve las pechugas de pollo en agua con sal, cebolla y ajo. Una vez cocidas y frías, desmenúzalas (deshiláchalas) en tiras no muy finas. Reserva el caldo.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Cocer pollo",
+          "minutes": 30
+        }
+      },
+      {
+        "title": "Salsa Roja Aromática",
+        "description": "Hierve los tomates, cebolla, ajo y chile pimiento. Licúalos bien finos usando un poco del caldo de pollo. Cuela la mezcla directamente sobre una olla.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Guisado del Pollo",
+        "description": "A la salsa roja agrega laurel, tomillo, sal y pimienta. Añade el pollo desmenuzado y deja hervir a fuego medio hasta que el pollo absorba la salsa y quede muy jugoso.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Guisar pollo",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Armado del Pan",
+        "description": "Abre cada pan por la mitad. Unta mayonesa en una mitad y un toque de mostaza en la otra. Coloca una cama de repollo, luego sirve una cucharada generosa y muy jugosa del pollo guisado. Termina con rodajas de remolacha si gustas.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "torrejas-1",
+    "title": "Torrejas Tradicionales",
+    "description": "El postre rey de la Cuaresma y Semana Santa. Un pan dulce (mollete o pan de yemas) rebanado, capeado en huevo esponjoso, frito a la perfección y finalmente sumergido en un jarabe caliente de panela y canela.",
+    "basePortions": 6,
+    "category": "Postre Festivo",
+    "difficulty": "Media",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "temperature": "Caliente o al tiempo",
+    "rating": 4.8,
+    "author": "Dulces Cuaresmales",
+    "utensils": [
+      "Sartén honda",
+      "Batidora",
+      "Olla grande",
+      "Papel absorbente"
+    ],
+    "tips": "El pan debe estar 'dormido', es decir, de uno o dos días antes para que esté firme, absorba bien el huevo y no se deshaga al freírlo ni al bañarlo en el jarabe.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Panes de manteca o molletes medianos",
+        "qty": 6,
+        "unit": "unidades",
+        "price": 12,
+        "store": "Panadería"
+      },
+      {
+        "name": "Huevos grandes",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Panela (rapadura)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Canela en raja, clavo de olor y pimienta gorda",
+        "qty": 1,
+        "unit": "mix",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "litro",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Aceite para freír",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 10,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Miel de Panela",
+        "description": "En una olla grande, pon a hervir el agua con la panela y todas las especias aromáticas (canela, clavo, pimienta gorda). Deja reducir a fuego medio hasta crear un almíbar ligero pero pegajoso.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Hervir miel",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "Preparar el Pan y el Huevo",
+        "description": "Rebana un poco la corteza superior e inferior de los panes (opcional). Separa las claras de las yemas. Bate las claras a punto de nieve firme y luego incorpora las yemas suavemente.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "El Fritado (Capeado)",
+        "description": "Calienta el aceite. Sumerge cada pan en el huevo batido asegurando que quede completamente cubierto. Fríelos rápidamente dándoles vuelta hasta que queden dorados e inflados. Escurre en papel toalla.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír panes",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Baño Dulce",
+        "description": "Introduce los panes ya fritos dentro de la olla con la miel de panela hirviendo. Déjalos absorber el jarabe a fuego mínimo por un par de minutos. Sirve con abundante miel por encima.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "molletes-1",
+    "title": "Molletes Rellenos de Manjar",
+    "description": "Son los hermanos sofisticados de las torrejas. La principal diferencia radica en que a los molletes se les corta una 'tapita', se vacían un poco y se rellenan con un espeso manjar de vainilla o leche, para luego sellarlos, capearlos y bañarlos en miel.",
+    "basePortions": 6,
+    "category": "Postre Festivo",
+    "difficulty": "Avanzada",
+    "prepTime": "40 min",
+    "cookTime": "30 min",
+    "temperature": "Caliente o frío",
+    "rating": 5,
+    "author": "Repostería Cuaresmal",
+    "utensils": [
+      "Cuchillo pequeño",
+      "Batidora",
+      "Sartén honda",
+      "Olla"
+    ],
+    "tips": "El manjar del relleno debe estar completamente frío y firme antes de rellenar los panes, de lo contrario se saldrá por los bordes al momento de freír.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Panes molletes grandes y firmes",
+        "qty": 6,
+        "unit": "unidades",
+        "price": 15,
+        "store": "Panadería"
+      },
+      {
+        "name": "Leche (para el manjar)",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 6,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Maicena (fécula de maíz)",
+        "qty": 3,
+        "unit": "cda",
+        "price": 2,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Azúcar y vainilla (para el manjar)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 3,
+        "store": "Casa"
+      },
+      {
+        "name": "Huevos grandes (para el capeado)",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Panela, canela y agua (para la miel)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Pasas (opcional para adornar)",
+        "qty": 2,
+        "unit": "oz",
+        "price": 3,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Manjar de Relleno",
+        "description": "Disuelve la maicena en un poco de leche fría. Pon el resto de la leche a hervir con azúcar y vainilla. Agrega la maicena disuelta sin dejar de mover hasta crear una crema espesa. Deja enfriar completamente.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Enfriar manjar",
+          "minutes": 30
+        }
+      },
+      {
+        "title": "El Relleno Quirúrgico",
+        "description": "Corta la parte superior (sombrerito) de cada mollete sin separarlo del todo. Saca con cuidado un poco de la miga del centro. Rellena el hueco con el manjar frío y un par de pasas. Cierra el sombrerito firmemente.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Capeado Perfecto",
+        "description": "Bate las claras a punto de nieve y luego integra las yemas. Sumerge los panes rellenos en el huevo asegurando que la abertura quede bien sellada por la espuma. Fríelos en aceite caliente hasta dorar.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "La Fusión Dulce",
+        "description": "Haz la miel de panela igual que la de las torrejas. Introduce los molletes fritos y escurridos en la miel caliente. Sírvelos enteros, al partirlos el manjar sorprenderá al comensal.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "empanadas-manjar-1",
+    "title": "Empanadas de Manjar de Leche",
+    "description": "Crujientes empanaditas de masa de sal, rellenas de un suave y dulce manjar de leche o vainilla. El contraste de la textura exterior tostada (pintada de rojo con colorante o achiote) con el interior dulce las hace el antojo perfecto con un café de la tarde.",
+    "basePortions": 10,
+    "category": "Postre / Refacción",
+    "difficulty": "Media",
+    "prepTime": "40 min",
+    "cookTime": "20 min",
+    "temperature": "Horno o sartén",
+    "rating": 4.6,
+    "author": "Antojitos Típicos",
+    "utensils": [
+      "Rodillo",
+      "Sartén u Horno",
+      "Brocha de cocina"
+    ],
+    "tips": "Puedes hacer la masa con harina de trigo (tipo pie) o con mezcla de masa de maíz y trigo para un toque más rústico. Cierra muy bien los bordes con un tenedor o con 'repulgue' manual.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Harina de trigo o Masa de maíz preparada",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 6,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Manteca vegetal o margarina",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 4,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Agua fría con pizca de sal",
+        "qty": 1,
+        "unit": "mix",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Manjar de leche (ya preparado y firme)",
+        "qty": 1.5,
+        "unit": "tazas",
+        "price": 10,
+        "store": "Casa"
+      },
+      {
+        "name": "Achiote líquido o colorante rojo vegetal",
+        "qty": 1,
+        "unit": "cucharadita",
+        "price": 2,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Azúcar glass o normal para espolvorear",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 3,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Amasado de la Costra",
+        "description": "Mezcla la harina con la manteca usando las puntas de los dedos hasta formar migas. Agrega poco a poco agua fría amasando hasta formar una bola lisa que no se pegue. Deja reposar la masa cubierta por 20 minutos.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Reposo",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "Rellenar con Cuidado",
+        "description": "Estira porciones de masa formando círculos. Pon una cucharada de manjar (muy firme y frío) en el centro. Dobla a la mitad y sella fuertemente los bordes apretando o usando un tenedor para evitar fugas.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "El Toque Visual",
+        "description": "Diluye un poco de achiote en agua o huevo y usa una brocha o algodón para 'pintar' manchas rojas sobre las empanadas, dándoles ese look tradicional inconfundible.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Cocción y Azúcar",
+        "description": "Hornéalas a 350°F (175°C) hasta que estén doradas (o fríelas si la masa es de maíz). Al sacarlas, mientras están calientes, espolvoréalas con azúcar. Sírvelas tibias.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Hornear",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "tiras-panza-1",
+    "title": "Tiras de Panza",
+    "description": "Un guiso denso y exquisito para los amantes de las texturas diferentes. La panza (callos o estómago de res) se hierve hasta quedar extremadamente suave y se guisa en un recado rojo de tomate espeso, similar al revolcado.",
+    "basePortions": 6,
+    "category": "Plato fuerte",
+    "difficulty": "Avanzada",
+    "prepTime": "30 min",
+    "cookTime": "120 min",
+    "temperature": "Hervor lento",
+    "rating": 4.4,
+    "author": "Cocina de Mercado",
+    "utensils": [
+      "Olla de presión",
+      "Comal",
+      "Licuadora",
+      "Olla grande"
+    ],
+    "tips": "El secreto absoluto es la limpieza de la panza: lávala varias veces frotándola con sal gruesa, limón y vinagre, y enjuágala exhaustivamente antes de la primera cocción para quitar olores fuertes.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Panza de res (limpia)",
+        "qty": 3,
+        "unit": "lb",
+        "price": 45,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Limón, vinagre y sal gruesa (para limpieza)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Tomate de cocina",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 4,
+        "unit": "oz",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 3,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile guaque (seco)",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción Prolongada",
+        "description": "Una vez súper limpia, cuece la panza en la olla de presión con agua, sal, ajo, media cebolla y hierbabuena hasta que quede tan suave que casi se deshaga. Retira del caldo, déjala enfriar y córtala en tiras delgadas.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Olla de presión",
+          "minutes": 60
+        }
+      },
+      {
+        "title": "Recado Tatemado",
+        "description": "En un comal, asa los tomates, miltomates, ajo, la otra mitad de la cebolla y los chiles guaque desvenados. Licúa todo usando un poco del caldo limpio de la cocción de la panza.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "El Guiso",
+        "description": "En una olla, sofríe el recado licuado en un hilo de aceite. Una vez frito y oscuro, agrega las tiras de panza. Deja hervir a fuego lento por 15 minutos para que la panza absorba el sabor.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Hervor final",
+          "minutes": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "caldo-mariscos-1",
+    "title": "Caldo de Mariscos Chapín",
+    "description": "También conocido como sopa de mariscos. A diferencia del Tapado, este no lleva leche de coco ni plátano. Es un caldo base muy potente, anaranjado por el tomate y el achiote, y repleto de una mezcla contundente de frutos del mar, cilantro y limón.",
+    "basePortions": 4,
+    "category": "Sopa",
+    "difficulty": "Media",
+    "prepTime": "25 min",
+    "cookTime": "35 min",
+    "temperature": "Caliente",
+    "rating": 5,
+    "author": "Marisquerías del Sur",
+    "utensils": [
+      "Olla grande",
+      "Licuadora"
+    ],
+    "tips": "No sobrecozas los mariscos. Los pescados de carne blanca y los camarones requieren apenas de 5 a 8 minutos de hervor. Agrega el cilantro fresco y abundante jugo de limón directamente al tazón al servir.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pescado entero en trozos grandes (pargo o curvina)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 30,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Mezcla de mariscos (camarón con cáscara, calamar, caracol, jaibas)",
+        "qty": 2,
+        "unit": "lb",
+        "price": 60,
+        "store": "Pescadería"
+      },
+      {
+        "name": "Tomates maduros",
+        "qty": 2,
+        "unit": "lb",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo",
+        "qty": 4,
+        "unit": "dientes",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Achiote y consomé de camarón (opcional)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Cilantro fresco y limones (para servir)",
+        "qty": 1,
+        "unit": "mix",
+        "price": 8,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Fondo Sofrito",
+        "description": "En la olla grande, sofríe cebolla, ajo y todo el tomate finamente picado o licuado. Cocina hasta hacer un puré o 'chirmol' muy concentrado. Agrega el achiote para un color naranja vivo.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Sofreír base",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Cocción de las Jaibas",
+        "description": "Agrega unos 2 litros de agua al sofrito base y lleva a ebullición. Primero incorpora las jaibas (cangrejos) partidas a la mitad y bien lavadas, ya que son las que más tardan y aportan gran sabor al caldo.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Hervir jaibas",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Agregando los Mariscos Suaves",
+        "description": "Cuando la jaiba esté roja, ajusta la sal. Agrega los trozos de pescado, el calamar y por último los camarones. Baja el fuego y tapa. A los 8 minutos máximo, apaga el fuego. ¡Están listos!",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "ensalada-escabeche-1",
+    "title": "Ensalada de Escabeche Chapín",
+    "description": "La compañera crujiente e indispensable de un buen plato de carne asada o de unas chilaquilas. Es una mezcla de zanahorias, coliflor, ejotes, chiles jalapeños y cebolla morada, crujientes y encurtidos en un baño aromático de vinagre, tomillo, orégano y laurel.",
+    "basePortions": 10,
+    "category": "Acompañamiento",
+    "difficulty": "Fácil",
+    "prepTime": "30 min",
+    "cookTime": "15 min",
+    "temperature": "Frío",
+    "rating": 4.7,
+    "author": "Cocina Diaria",
+    "utensils": [
+      "Recipiente grande de vidrio con tapa",
+      "Olla grande",
+      "Cuchillo",
+      "Colador"
+    ],
+    "tips": "El blanqueado es el secreto del éxito: las verduras deben meterse al agua hirviendo y sacarse antes de que se ablanden por completo, cortando la cocción inmediatamente con agua fría para que el escabeche truene al morderlo.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Zanahorias grandes cortadas en diagonal (sesgadas)",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Coliflor cortada en floretes pequeños",
+        "qty": 1,
+        "unit": "cabeza",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ejotes cortados a la mitad",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebollas moradas o blancas pequeñas, enteras o en cuartos",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chiles jalapeños cortados en rajas gruesas",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Vinagre de manzana o blanco",
+        "qty": 1.5,
+        "unit": "taza",
+        "price": 8,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Aceite de oliva o vegetal",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Orégano seco, hojas de laurel frescas, tomillo, granos de pimienta negra",
+        "qty": 1,
+        "unit": "mix",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajo pelado entero",
+        "qty": 6,
+        "unit": "dientes",
+        "price": 2,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Blanqueado de Verduras (Crujientes)",
+        "description": "Hierve una olla grande con agua y bastante sal. Introduce la coliflor, zanahorias, ejotes y cebollas. Déjalos hervir EXACTAMENTE por 4 minutos. Sácalos con espumadera y sumérgelos de inmediato en un tazón de agua con hielo para detener la cocción.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Blanquear",
+          "minutes": 4
+        }
+      },
+      {
+        "title": "Sofrito Aromático de Chiles y Especias",
+        "description": "En una olla grande a fuego medio, pon el aceite y sofríe los ajos enteros, los chiles jalapeños en rajas, el laurel, el tomillo y los granos de pimienta. Cocina por unos 3 minutos hasta que el aceite perfume el aire, pero no dejes que el ajo se queme.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Aromatizar aceite",
+          "minutes": 3
+        }
+      },
+      {
+        "title": "El Baño Encurtido",
+        "description": "A la misma olla con aceite aromatizado, añádele el vinagre con cuidado (puede saltar). Añade sal al gusto, un toque muy sutil de azúcar (para balancear acidez), y luego incorpora todas las verduras escurridas. Mezcla rápidamente por 1 minuto en el fuego para que se calienten un poco y apaga el fuego. Espolvorea abundante orégano molido con tus manos.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      },
+      {
+        "title": "Reposo y Guardado",
+        "description": "Acomoda todo apretadamente en uno o dos frascos grandes de vidrio esterilizados (o tazón tapado) e inunda con todo el líquido sobrante. Deja enfriar a temperatura ambiente y luego guarda en refrigeración al menos 24 horas antes de comer. ¡Entre más días pasen, mejor sabor!",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "chuchitos-cambray-1",
+    "title": "Chuchitos de Cambray (Dulces)",
+    "description": "La versión rosada y dulce de nuestros amados tamalitos. Estos son más pequeños que los colorados, su masa está hecha de arroz o de maíz muy suave coloreada con un tono rojo/rosado carmín, y en su interior esconden un picadillo dulce de frutas y carne de cerdo caramelizada, adornados con pasitas y almendras.",
+    "basePortions": 15,
+    "category": "Postre / Antojito Dulce",
+    "difficulty": "Avanzada",
+    "prepTime": "60 min",
+    "cookTime": "60 min",
+    "temperature": "Vapor a fuego medio",
+    "rating": 4.8,
+    "author": "Antojitos Típicos",
+    "utensils": [
+      "Vaporera pequeña",
+      "Tazón hondo",
+      "Comal"
+    ],
+    "tips": "Su amarre es único: se envuelven en tusa pero se amarran fuertemente de ambos extremos como si fueran un dulce (o caramelo), dejando el centro 'gordito'. Usa masa de arroz para una textura superior.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de arroz (o de maíz muy fina)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 12,
+        "store": "Molino o Supermercado"
+      },
+      {
+        "name": "Manteca de cerdo y mantequilla",
+        "qty": 8,
+        "unit": "oz",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Azúcar",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Colorante vegetal rojo o carmín",
+        "qty": 1,
+        "unit": "cdita",
+        "price": 3,
+        "store": "Abarrotería"
+      },
+      {
+        "name": "Carne de cerdo (posta picadísima cocida con canela y clavo)",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 15,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Pasas y Almendras fileteadas",
+        "qty": 1,
+        "unit": "mix",
+        "price": 12,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Hojas de tusa seca (hidratadas en agua caliente)",
+        "qty": 1,
+        "unit": "manojo",
+        "price": 5,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Masa Dulce y Rosada",
+        "description": "En un recipiente amplio, integra la masa de arroz con la manteca derretida, la mantequilla, el azúcar y una pizca de sal. Agrega el colorante vegetal hasta que la masa tome un hermoso tono rosado uniforme. Amasa hasta que esté untuosa.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "El Relleno Festivo",
+        "description": "Mezcla la carne de cerdo (ya cocida muy finamente picada), con las pasas y almendras. En las recetas más antiguas, este picadillo se sofríe ligeramente con panela derretida.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Amarre de Caramelo",
+        "description": "Extiende una hoja de tusa (maíz) previamente remojada. Coloca en el centro una bolita de masa, haz una depresión y coloca una cucharadita del relleno dulce. Cierra la tusa como un tubo grueso, y luego amarra los dos extremos muy apretados, simulando la envoltura de un dulce.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Al Vapor",
+        "description": "Colócalos en la olla vaporera con cuidado. Cocina por una hora. Estos tamalitos son una explosión dulce y aromática, perfectos para acompañar con un ponche de frutas caliente.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Vaporera",
+          "minutes": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "frijoles-colorados-chicharron-1",
+    "title": "Frijoles Colorados con Chicharrón",
+    "description": "Un guiso denso y sabroso que protagoniza la mesa de las familias del oriente de Guatemala. El frijol colorado aporta una textura firme que se balancea con un recado de tomate y el inigualable sabor tostado y grasoso de grandes trozos de chicharrón de cerdo que se rehidratan y ablandan en el caldo.",
+    "basePortions": 6,
+    "category": "Plato Fuerte",
+    "difficulty": "Media",
+    "prepTime": "Cargar noche anterior",
+    "cookTime": "75 min",
+    "temperature": "Hervor lento",
+    "rating": 4.8,
+    "author": "Cocina Hogareña",
+    "utensils": [
+      "Olla de presión",
+      "Sartén",
+      "Licuadora",
+      "Olla grande"
+    ],
+    "tips": "Consigue chicharrón 'carnudo' (con una capa de carne pegada a la grasa y piel crujiente) en la carnicería local. Debe estar fresco. Añádelo en los últimos 20 minutos de cocción para que se ponga suave pero no se deshaga del todo.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Frijoles colorados grandes, limpios (secos)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 12,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chicharrones carnudos en trozos grandes",
+        "qty": 1,
+        "unit": "lb",
+        "price": 40,
+        "store": "Carnicería o Chicharronera"
+      },
+      {
+        "name": "Tomates maduros grandes",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla blanca",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Dientes de ajo",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Casa"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "cucharada",
+        "price": 0.5,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocción Primaria",
+        "description": "Luego de remojar los frijoles toda la noche en agua fría, lávalos y ponlos en la olla de presión con agua limpia cubriendo unos dedos por encima, sal y media cebolla. Cocina hasta que estén suaves pero no deshechos (al dente).",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Olla de presión",
+          "minutes": 40
+        }
+      },
+      {
+        "title": "Chirmol Base",
+        "description": "Asa o hierve los tomates, el ajo y la otra mitad de la cebolla. Licúalos sin agua para lograr una salsa espesa. Sofríe rápidamente esta salsa en una sartén con un hilo de aceite o manteca.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "La Magia del Chicharrón",
+        "description": "En una olla tradicional, vierte los frijoles colorados ya cocidos con parte de su caldo. Incorpora el sofrito de tomate. Revuelve, prueba la sazón e incorpora los trozos de chicharrón. Baja el fuego.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      },
+      {
+        "title": "Espesado y Reposo",
+        "description": "Deja hervir todo destapado a fuego lento. El chicharrón soltará su sabor en el caldo y su piel crujiente se tornará blanda y gelatinosa, un deleite absoluto. Sirve acompañado de arroz blanco.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+        "timer": {
+          "name": "Hervor final",
+          "minutes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "huevos-divorciados-1",
+    "title": "Huevos Divorciados Chapines",
+    "description": "Un desayuno majestuoso para mañanas largas. Son dos huevos estrellados servidos sobre tortillas de maíz tostadas o fritas, pero separados (divorciados) en el plato por un imponente muro o caminito de frijoles volteados espesos. Un huevo es bañado en una ardiente salsa verde de miltomate y el otro en una dulce y picante salsa roja de tomate.",
+    "basePortions": 1,
+    "category": "Desayuno",
+    "difficulty": "Media",
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "temperature": "Recién hecho",
+    "rating": 5,
+    "author": "Desayunos Clásicos",
+    "utensils": [
+      "Sartén de teflón para huevos",
+      "2 ollas pequeñas para salsas",
+      "Espátula"
+    ],
+    "tips": "El secreto visual está en las salsas: asegúrate de que la salsa verde de miltomate pique sabroso, y que la salsa roja contraste con un dulzor sutil. El huevo estrellado ideal debe tener la orilla crocante (puntilla) y la yema tierna y líquida.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Huevos grandes frescos",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tortillas de maíz delgadas o pre-tostadas",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Tortillería"
+      },
+      {
+        "name": "Frijoles negros volteados espesos",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 4,
+        "store": "Casa"
+      },
+      {
+        "name": "Salsa verde casera (miltomate, ajo, cilantro, jalapeño licuado y sofrito)",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Salsa roja casera (chirmol de tomate asado)",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Aceite, sal y pimienta",
+        "qty": 1,
+        "unit": "mix",
+        "price": 1,
+        "store": "Casa"
+      },
+      {
+        "name": "Plátanos fritos en tajadas (para acompañar)",
+        "qty": 1,
+        "unit": "mitad",
+        "price": 3,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Las Bases y Salsas",
+        "description": "Calienta en sartenes u ollitas pequeñas tus tres elementos clave: La salsa verde, la salsa roja y los frijoles volteados. Por aparte, en un sartén con una cucharada de aceite, fríe ligeramente las dos tortillas hasta que doren sin quemarse.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Estrellar Huevos",
+        "description": "En un buen sartén antiadherente con un chorrito de aceite bien caliente, fríe los dos huevos (estrellados al gusto). Échales sal fina encima de la yema.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Freír huevos",
+          "minutes": 3
+        }
+      },
+      {
+        "title": "Armar la Separación",
+        "description": "En un plato plano y ancho, coloca las dos tortillas fritas una al lado de la otra, con algo de separación. En medio de ellas construye una línea gruesa (un muro fronterizo) usando el puré de frijoles volteados calientes.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Divorcio",
+        "description": "Coloca cuidadosamente un huevo estrellado sobre cada tortilla. Baña agresiva y generosamente un huevo con la ardiente salsa verde, y baña el otro huevo con la espesa y dulce salsa roja, asegurando que los colores se mantengan separados por la barrera de frijol negro. Acompaña con rodajas de plátano frito y pan recién tostado.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "pollo-amarillo-1",
+    "title": "Pollo en Amarillo",
+    "description": "Un guiso tradicional, suave y reconfortante. El color amarillo vibrante se logra gracias a un recado a base de miltomate y verduras, donde la zanahoria y la papa aportan no solo textura, sino un matiz dulce que balancea perfectamente con el pollo.",
+    "basePortions": 4,
+    "category": "Plato fuerte",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "45 min",
+    "temperature": "Hervor lento",
+    "rating": 4.5,
+    "author": "Cocina Diaria",
+    "utensils": [
+      "Olla",
+      "Licuadora",
+      "Comal"
+    ],
+    "tips": "Para intensificar el color, muchas abuelas agregan una pizca de azafrán o achiote amarillo. Acompaña obligatoriamente con arroz blanco para aprovechar el caldito.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Piezas de pollo",
+        "qty": 2,
+        "unit": "lb",
+        "price": 16,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate",
+        "qty": 0.5,
+        "unit": "lb",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Zanahorias y papas (en rodajas o cuadros)",
+        "qty": 2,
+        "unit": "tazas",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile pimiento rojo o amarillo",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocer el Pollo",
+        "description": "Hierve el pollo con sal, ajo y cebolla. A media cocción, agrega las papas y zanahorias para que se ablanden sin deshacerse.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Hervir",
+          "minutes": 25
+        }
+      },
+      {
+        "title": "El Recado Amarillo",
+        "description": "Asa en el comal el miltomate, el tomate y el chile pimiento. Licúalos finamente con un poco de caldo de pollo. Este recado debe quedar de un color amarillo anaranjado.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Integración",
+        "description": "Vierte el recado licuado a la olla con el pollo y verduras. Deja que todo hierva a fuego bajo por 15 minutos para que el recado espese y los sabores se unifiquen.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Guisar",
+          "minutes": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "pacayas-envueltas-1",
+    "title": "Pacayas Envueltas en Huevo",
+    "description": "La flor de palma comestible más famosa de Mesoamérica. Su distintivo sabor amargo se suaviza al cocerla y se balancea perfectamente cuando se envuelve en huevo batido, se fríe y se baña en una salsa de tomate rojo y dulce.",
+    "basePortions": 4,
+    "category": "Plato Fuerte / Vegetariano",
+    "difficulty": "Media",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "temperature": "Fritura media",
+    "rating": 4.6,
+    "author": "Cocina de Cuaresma",
+    "utensils": [
+      "Olla",
+      "Sartén",
+      "Batidora"
+    ],
+    "tips": "Para quitarles el amargo excesivo, muchas personas las hierven dos veces, tirando la primera agua. A otras les encanta ese sabor amargo intacto.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Pacayas tiernas (frescas o en salmuera)",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Huevos",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate de cocina (para la salsa)",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite para freír",
+        "qty": 1,
+        "unit": "taza",
+        "price": 5,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Limpieza y Cocción",
+        "description": "Pela las pacayas quitándoles las hojas duras hasta llegar al centro tierno. Hiérvelas en agua con sal hasta que estén suaves. Escúrrelas y déjalas secar en papel toalla.",
+        "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800",
+        "timer": {
+          "name": "Hervir pacayas",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "El Capeado",
+        "description": "Separa las claras de yemas. Bate las claras a punto de nieve firme y envuelve las yemas suavemente con un poco de sal y harina.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Fritura y Baño",
+        "description": "Sumerge cada pacaya en el huevo batido y fríelas inmediatamente en aceite caliente de ambos lados. Sírvelas bañadas en una salsa de tomate o 'chirmol' y acompáñalas con queso seco.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Freír",
+          "minutes": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "fiambre-rojo-1",
+    "title": "Fiambre Rojo Tradicional",
+    "description": "El platillo más complejo, masivo y sagrado de Guatemala. Preparado solo para el 1 de Noviembre (Día de Todos los Santos). Es una gigantesca ensalada fría que mezcla decenas de verduras curtidas en vinagre, con una docena de carnes frías, embutidos y quesos. Una verdadera obra maestra culinaria.",
+    "basePortions": 20,
+    "category": "Plato Festivo / Frío",
+    "difficulty": "Experta",
+    "prepTime": "3 días",
+    "cookTime": "12 horas",
+    "temperature": "Frío",
+    "rating": 5,
+    "author": "Herencia Familiar",
+    "utensils": [
+      "Múltiples ollas inmensas",
+      "Tazones gigantes",
+      "Tablas de picar"
+    ],
+    "tips": "El Fiambre no se hace en un día. Requiere planificación. El caldillo (la mezcla de vinagre, mostaza, aceite y caldos de carne) se debe preparar y dejar caer sobre la verdura 48 horas antes de comer para que se 'curta' a la perfección.",
+    "isPublic": true,
+    "isContestEntry": true,
+    "ingredients": [
+      {
+        "name": "Verduras: Remolacha, repollo, zanahoria, ejote, coliflor, pacaya, arveja, bruselas",
+        "qty": 15,
+        "unit": "lbs",
+        "price": 150,
+        "store": "Mercado"
+      },
+      {
+        "name": "Embutidos: Chorizo negro, colorado, longaniza, salchichas, butifarra, salami",
+        "qty": 10,
+        "unit": "lbs",
+        "price": 300,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Carnes: Lengua de res, pollo, lomo de cerdo",
+        "qty": 8,
+        "unit": "lbs",
+        "price": 200,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Lácteos: Queso seco, queso fresco, queso de capas, queso kraft",
+        "qty": 5,
+        "unit": "lbs",
+        "price": 150,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Caldillo: Vinagre, aceite de oliva, mostaza, laurel, tomillo, orégano",
+        "qty": 1,
+        "unit": "mix gigante",
+        "price": 50,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Día 1: Las Carnes y el Caldillo",
+        "description": "Hierve todas las carnes por separado. Guarda los caldos (especialmente el de lengua y pollo). Corta las carnes en cuadros. Por aparte, prepara el caldillo mezclando vinagre, los caldos de las carnes, mostaza, aceite de oliva y todas las especias aromáticas hirviendo todo junto.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Cocer carnes",
+          "minutes": 180
+        }
+      },
+      {
+        "title": "Día 2: Las Verduras y el Curtido",
+        "description": "Pica finamente TODAS las verduras. Hiérvelas (blanquea) por separado para que mantengan su textura. La remolacha es clave, cuecela entera, pélala y córtala; esta teñirá todo de rojo. Mezcla todas las verduras en un recipiente gigante y báñalas completamente con el caldillo preparado el día anterior. Refrigera.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Día 3: Embutidos y Ensamblaje",
+        "description": "Hierve y fríe los embutidos, córtalos en rodajas. Saca la verdura ya curtida y mézclala con el 70% de las carnes, embutidos y quesos. El 30% restante se reserva para adornar.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "El Emplatado",
+        "description": "En platos hondos, sirve una montaña de la mezcla curtida. Ahora viene el arte: decora meticulosamente con rodajas de los embutidos reservados, tiras de queso, rabanitos, pacayas, un huevo duro en rodajas y queso seco espolvoreado. Se come frío el 1 de Noviembre.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "platanos-mole-1",
+    "title": "Plátanos en Mole",
+    "description": "Un postre inusual y delicioso. Rodajas de plátano macho maduro frito, sumergidas en una espesa salsa de chocolate artesanal guatemalteco combinada con semillas tostadas (pepitoria, ajonjolí) y chiles secos que le aportan profundidad sin picor.",
+    "basePortions": 6,
+    "category": "Postre",
+    "difficulty": "Media",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "temperature": "Caliente o Frío",
+    "rating": 5,
+    "author": "Repostería Tradicional",
+    "utensils": [
+      "Comal",
+      "Sartén",
+      "Licuadora",
+      "Olla de barro"
+    ],
+    "tips": "El chocolate debe ser el clásico de taza o tablilla (con azúcar y canela incluida). Se espolvorea con ajonjolí tostado justo al servir.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Plátanos muy maduros",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chocolate guatemalteco en tablilla",
+        "qty": 2,
+        "unit": "tablillas",
+        "price": 12,
+        "store": "Mercado"
+      },
+      {
+        "name": "Tomate de cocina",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate",
+        "qty": 4,
+        "unit": "oz",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Ajonjolí y pepitoria",
+        "qty": 1,
+        "unit": "taza pequeña",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile pasa (sin semillas)",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Pan dulce (para espesar)",
+        "qty": 1,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Panadería"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Freír el Plátano",
+        "description": "Corta los plátanos en rodajas sesgadas (alargadas). Fríelas en aceite caliente hasta que doren fuertemente. Escúrrelas bien en papel toalla.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Freír",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Tostar y Licuar",
+        "description": "Tuesta el ajonjolí, la pepitoria y el chile pasa en un comal. Por aparte, hierve el tomate y miltomate. Licúa todo esto junto con un pedazo de pan dulce remojado para espesar.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800",
+        "timer": {
+          "name": "Licuar mole",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "Derretir Chocolate y Guisar",
+        "description": "En una olla, disuelve el chocolate de tablilla en un poco de agua caliente. Agrega la mezcla licuada y deja hervir. Sumerge las rodajas de plátano en este mole dulce y deja hervir a fuego mínimo por 5 minutos.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Guisar",
+          "minutes": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "chuchitos-colorados-1",
+    "title": "Chuchitos Colorados",
+    "description": "La comida rápida de Guatemala desde la época prehispánica. Una masa firme de maíz mezclada con manteca, un recado rojo espeso y un trozo de carne de cerdo o pollo, todo envuelto firmemente en hojas de tusa secas y cocido al vapor.",
+    "basePortions": 15,
+    "category": "Plato Fuerte / Antojito",
+    "difficulty": "Media",
+    "prepTime": "60 min",
+    "cookTime": "90 min",
+    "temperature": "Vapor",
+    "rating": 4.9,
+    "author": "Cocina Diaria",
+    "utensils": [
+      "Vaporera",
+      "Tazón grande",
+      "Licuadora",
+      "Olla pequeña"
+    ],
+    "tips": "El recado debe estar EXTREMADAMENTE ESPESO (como una pasta) antes de rellenar el chuchito, de lo contrario aguadará la masa y se desbordará. Amarra fuerte con tiras de la misma tusa.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Masa de maíz fina",
+        "qty": 3,
+        "unit": "lb",
+        "price": 12,
+        "store": "Molino"
+      },
+      {
+        "name": "Manteca de cerdo derretida",
+        "qty": 8,
+        "unit": "oz",
+        "price": 8,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomate de cocina",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile guaque y chile pasa",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Carne de cerdo (posta en cuadros cruda) o pollo",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 25,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Hojas de tusa seca",
+        "qty": 1,
+        "unit": "manojo grande",
+        "price": 10,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Recado Rojo",
+        "description": "Hierve los tomates y chiles. Licúalos y sofríe la salsa en un poco de aceite o manteca hasta que quede una pasta roja muy espesa. Condimenta con sal.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Sofreír recado",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Preparar la Masa",
+        "description": "Amasa la masa de maíz con la manteca de cerdo, un poco de agua tibia y sal abundante. La masa de los chuchitos debe ser mucho más firme y moldeable que la de un tamal.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Envolver y Amarrar",
+        "description": "En una hoja de tusa húmeda, pon una bola de masa, haz un hueco profundo. Coloca un trozo de carne cruda y llénalo de recado espeso. Cierra la masa sobre el recado. Cierra la tusa formando un saquito y amárralo por la parte superior.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Al Vapor",
+        "description": "Cocínalos parados en una olla vaporera. Sírvelos calientes bañados con salsa de tomate extra, perejil y queso seco.",
+        "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800",
+        "timer": {
+          "name": "Vaporera",
+          "minutes": 90
+        }
+      }
+    ]
+  },
+  {
+    "id": "paches-papa-1",
+    "title": "Paches de Papa",
+    "description": "La versión quetzalteca del tamal. Su base no es masa de maíz, sino un rico puré de papa amasado con manteca y recado, relleno de carne de cerdo y un infaltable chile verde entero para darle un aroma picante sutil. Tradición de los días jueves.",
+    "basePortions": 10,
+    "category": "Plato Fuerte / Tamales",
+    "difficulty": "Avanzada",
+    "prepTime": "60 min",
+    "cookTime": "90 min",
+    "temperature": "Vapor a fuego medio",
+    "rating": 4.9,
+    "author": "Receta Quetzalteca",
+    "utensils": [
+      "Ollas grandes",
+      "Hojas de plátano",
+      "Hojas de maxán"
+    ],
+    "tips": "El pache perfecto lleva el recado integrado directamente en el puré de papa, no separado. Usa papa loma que es más seca. El chile francés (verde picante) crudo entero es la firma de un buen pache.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Papa (variedad loma o de masa firme)",
+        "qty": 5,
+        "unit": "lb",
+        "price": 20,
+        "store": "Mercado"
+      },
+      {
+        "name": "Manteca de cerdo",
+        "qty": 1,
+        "unit": "lb",
+        "price": 15,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Tomate de cocina",
+        "qty": 2,
+        "unit": "lb",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Miltomate, cebolla, ajo, chiles guaque/pasa",
+        "qty": 1,
+        "unit": "mix",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Carne de cerdo en trozos medianos (cruda)",
+        "qty": 1.5,
+        "unit": "lb",
+        "price": 30,
+        "store": "Carnicería"
+      },
+      {
+        "name": "Chile pimiento verde picante (francés)",
+        "qty": 10,
+        "unit": "unidades pequeñas",
+        "price": 5,
+        "store": "Mercado"
+      },
+      {
+        "name": "Hojas de plátano y maxán para envolver",
+        "qty": 1,
+        "unit": "paquete",
+        "price": 15,
+        "store": "Mercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Puré",
+        "description": "Cuece las papas con cáscara. Pélalas estando calientes y machácalas fuertemente hasta lograr un puré fino sin grumos.",
+        "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800",
+        "timer": {
+          "name": "Majar papas",
+          "minutes": 20
+        }
+      },
+      {
+        "title": "El Recado",
+        "description": "Asa todos los ingredientes del recado (tomate, miltomate, chiles secos, ajo, cebolla). Licúalos finamente.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "La Mezcla Maestra",
+        "description": "En una olla inmensa, pon a derretir la manteca de cerdo. Agrega el recado licuado y sofríe. Inmediatamente vierte todo el puré de papa. Remueve con fuerza (es muy cansado) hasta que todo el puré absorba el recado y la manteca, quedando una masa roja, brillosa y exquisita. Ponle sal.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Amasar al fuego",
+          "minutes": 25
+        }
+      },
+      {
+        "title": "Envolver",
+        "description": "Corta cuadros de hoja de plátano sobre hoja de maxán (asadas). Pon un cucharón grande de masa de papa roja. En el centro inserta un trozo de carne de cerdo cruda y un chile verde picante entero. Dobla las hojas formando un paquete cuadrado y amárralo con cibaque.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Cocer",
+        "description": "Acomódalos en una olla vaporera grande. Cocina tapados por hora y media. Son el almuerzo tradicional de los jueves junto con pan francés.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Cocción al vapor",
+          "minutes": 90
+        }
+      }
+    ]
+  },
+  {
+    "id": "horchata-chapina-1",
+    "title": "Horchata Chapina",
+    "description": "Bebida refrescante y dulcísima. A diferencia de la versión mexicana o española, la horchata guatemalteca se caracteriza por el uso de arroz crudo remojado molido junto con almendras, pepita de melón y abundante canela. Se sirve fría con leche.",
+    "basePortions": 8,
+    "category": "Bebida Fría",
+    "difficulty": "Fácil",
+    "prepTime": "Remojo nocturno",
+    "cookTime": "15 min",
+    "temperature": "Muy frío (con hielo)",
+    "rating": 4.7,
+    "author": "Refrescos Tradicionales",
+    "utensils": [
+      "Licuadora de alta potencia",
+      "Colador o manta",
+      "Pichel grande"
+    ],
+    "tips": "El remojo previo del arroz es vital. Si puedes llevarlo a un molino de nixtamal en vez de licuadora, el polvo quedará más fino. Sírvase con abundante hielo picado.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Arroz blanco crudo",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Semillas de melón secas o pepitoria blanca",
+        "qty": 2,
+        "unit": "oz",
+        "price": 4,
+        "store": "Mercado"
+      },
+      {
+        "name": "Almendras peladas",
+        "qty": 2,
+        "unit": "oz",
+        "price": 10,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Canela en raja grande",
+        "qty": 3,
+        "unit": "unidades",
+        "price": 3,
+        "store": "Mercado"
+      },
+      {
+        "name": "Azúcar",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Leche entera y Leche evaporada",
+        "qty": 1,
+        "unit": "mix",
+        "price": 15,
+        "store": "Supermercado"
+      },
+      {
+        "name": "Agua purificada",
+        "qty": 2,
+        "unit": "litros",
+        "price": 0,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Remojo",
+        "description": "Una noche antes, lava el arroz. Déjalo remojando en agua purificada junto con las ramas de canela despedazadas, las almendras y las semillas de melón.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800",
+        "timer": {
+          "name": "Remojo",
+          "minutes": 480
+        }
+      },
+      {
+        "title": "Molienda Extrema",
+        "description": "Pasa por la licuadora el arroz con las especias usando el agua del remojo. Licúa durante varios minutos hasta obtener un polvo líquido muy, muy fino.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Licuar",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "El Colado",
+        "description": "Cuela el líquido resultante pasándolo por un colador muy fino o una manta de cielo. Exprime bien para sacar toda la esencia y desecha la pasta o bagazo sobrante.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800"
+      },
+      {
+        "title": "Armar la Bebida",
+        "description": "En un pichel grande, vierte la esencia de horchata extraída. Agrega el agua pura, la leche evaporada, la leche normal y endulza con azúcar al gusto. Sírvela bien fría.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "rosa-jamaica-1",
+    "title": "Fresco de Rosa de Jamaica",
+    "description": "La bebida oficial de los almuerzos chapines. Hecha a base de la flor del hibisco, proporciona un color rojo rubí intenso, un sabor ácido que limpia el paladar, y sirve como perfecto digestivo para acompañar caldos y carnes.",
+    "basePortions": 10,
+    "category": "Bebida Fría",
+    "difficulty": "Fácil",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "temperature": "Muy frío (con hielo)",
+    "rating": 4.9,
+    "author": "Casa Chapina",
+    "utensils": [
+      "Olla para hervir",
+      "Colador grande",
+      "Pichel de vidrio"
+    ],
+    "tips": "No tires las flores después del primer hervor; a menudo puedes darles un segundo hervor más corto para extraer más sabor y color.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Flor de Rosa de Jamaica seca",
+        "qty": 4,
+        "unit": "oz",
+        "price": 10,
+        "store": "Mercado"
+      },
+      {
+        "name": "Agua purificada",
+        "qty": 3,
+        "unit": "litros",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Azúcar blanca",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Limpieza y Hervor",
+        "description": "Lava rápidamente las flores secas bajo el grifo de agua para quitarles el polvo. Ponlas a hervir en 1 litro de agua por unos 15 minutos. El agua se tornará casi negra de tan concentrada.",
+        "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800",
+        "timer": {
+          "name": "Hervir flor",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Colado y Disolución",
+        "description": "Cuela el concentrado caliente sobre el pichel y descarta las flores. Disuelve inmediatamente el azúcar en este extracto caliente (es más fácil).",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Servir",
+        "description": "Añade el resto de los 2 litros de agua fría. Mezcla bien y ajusta el dulzor, debe ser un equilibrio perfecto entre lo ácido de la flor y el azúcar. Sírvelo en vasos con cubos de hielo.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "chirmol-1",
+    "title": "Chirmol Tradicional (Salsa Asada)",
+    "description": "No es pico de gallo, no es salsa verde. Es el Chirmol: el rey de la carne asada. Una salsa rústica hecha puramente de tomates asados y machacados (no licuados), mezclados con cilantro, cebolla picada y jugo de limón. Refrescante y ahumado.",
+    "basePortions": 6,
+    "category": "Salsa / Acompañamiento",
+    "difficulty": "Fácil",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "temperature": "Al tiempo",
+    "rating": 5,
+    "author": "Churrascos de Domingo",
+    "utensils": [
+      "Comal o parrilla al carbón",
+      "Tenedor grande para machacar",
+      "Tazón hondo"
+    ],
+    "tips": "El auténtico chirmol NUNCA se licúa. Se machaca a mano para mantener los trozos de tomate asado y los pedacitos de piel tatemada (quemada) que le dan el sabor a carbón.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Tomates de cocina (maduros y firmes)",
+        "qty": 8,
+        "unit": "unidades",
+        "price": 6,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla (blanca o morada) finamente picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cilantro fresco picado",
+        "qty": 0.5,
+        "unit": "manojo",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Limones frescos",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Chile jalapeño o cobanero (opcional)",
+        "qty": 1,
+        "unit": "pizca",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "El Asado (Tatemado)",
+        "description": "Asa los tomates enteros directamente en las brasas del carbón o en un comal súper caliente. Gíralos hasta que la piel esté completamente negra (tatemada) y el interior esté aguado. Retíralos.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Asar tomates",
+          "minutes": 15
+        }
+      },
+      {
+        "title": "Machacar",
+        "description": "Coloca los tomates calientes en un tazón (no les quites la piel negra, o solo quita el exceso si es mucho). Usa un tenedor grande para machacarlos hasta formar un puré grueso con trozos grandes de tomate.",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800"
+      },
+      {
+        "title": "Mezcla Fresca",
+        "description": "Agrega inmediatamente la cebolla picada, el cilantro fresco, sal al gusto y el jugo de limón recién exprimido. Mezcla bien y sirve como acompañamiento bañando una carne asada o longanizas.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "guacamol-chapin-1",
+    "title": "Guacamol Chapín",
+    "description": "Más sencillo y purista que el guacamole mexicano. En Guatemala el guacamol prescinde del tomate y los chiles excesivos, enfocándose puramente en la cremosidad del aguacate maduro, equilibrado con cebolla finamente picada, sal, orégano seco y limón.",
+    "basePortions": 6,
+    "category": "Acompañamiento",
+    "difficulty": "Fácil",
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "temperature": "Frío o al tiempo",
+    "rating": 4.8,
+    "author": "Antojitos Diarios",
+    "utensils": [
+      "Tazón",
+      "Tenedor",
+      "Cuchillo"
+    ],
+    "tips": "Para evitar que el guacamol se oxide (se ponga negro) si sobra, deja la semilla del aguacate dentro del tazón con la mezcla y exprime suficiente limón. No lo hagas en licuadora.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Aguacates grandes, maduros y de buena textura",
+        "qty": 4,
+        "unit": "unidades",
+        "price": 20,
+        "store": "Mercado"
+      },
+      {
+        "name": "Cebolla finamente picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Limones jugosos",
+        "qty": 2,
+        "unit": "unidades",
+        "price": 1,
+        "store": "Mercado"
+      },
+      {
+        "name": "Sal y pimienta negra molida",
+        "qty": 1,
+        "unit": "pizca",
+        "price": 0.5,
+        "store": "Casa"
+      },
+      {
+        "name": "Orégano seco triturado",
+        "qty": 1,
+        "unit": "pizca generosa",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La Extracción",
+        "description": "Abre los aguacates, saca la semilla y extrae toda la pulpa con una cuchara colocándola en un tazón amplio.",
+        "imageUrl": "https://images.unsplash.com/photo-1559181567-c3190cb9959b?q=80&w=800"
+      },
+      {
+        "title": "Majar (No Licuar)",
+        "description": "Usa un tenedor para triturar la pulpa hasta obtener una pasta cremosa pero con algo de textura. Agrégale sal y el jugo de limón inmediatamente para preservar su color verde brillante.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Los Aromas",
+        "description": "Incorpora la cebolla picada finamente y el orégano seco triturado con tus dedos. Revuelve y sirve de inmediato sobre tostadas de maíz, shucos, pan francés o como entrada con nachos.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "tamarindo-1",
+    "title": "Fresco de Tamarindo",
+    "description": "El refresco clásico y agridulce que no falta en los mercados de Guatemala. Hecho con la vaina natural del tamarindo, es una bebida espesa, color café, sumamente refrescante para los climas cálidos y que combina perfecto con garnachas o empanadas.",
+    "basePortions": 8,
+    "category": "Bebida Fría",
+    "difficulty": "Fácil",
+    "prepTime": "20 min",
+    "cookTime": "10 min",
+    "temperature": "Frío (con hielo)",
+    "rating": 4.6,
+    "author": "Refrescos de Mercado",
+    "utensils": [
+      "Olla",
+      "Colador grueso",
+      "Pichel"
+    ],
+    "tips": "Para extraer toda la pulpa, usa tus manos (muy limpias) para restregar las semillas en el agua, es la técnica tradicional y más efectiva.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Vainas de tamarindo fresco peladas",
+        "qty": 1,
+        "unit": "lb",
+        "price": 8,
+        "store": "Mercado"
+      },
+      {
+        "name": "Agua purificada",
+        "qty": 3,
+        "unit": "litros",
+        "price": 0,
+        "store": "Casa"
+      },
+      {
+        "name": "Azúcar",
+        "qty": 1,
+        "unit": "lb",
+        "price": 5,
+        "store": "Supermercado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hervir para Suavizar",
+        "description": "Lava las vainas peladas. Ponlas a hervir en 1 litro de agua durante unos 10 minutos para que la pulpa se ablande y se separe de las semillas.",
+        "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800",
+        "timer": {
+          "name": "Hervir",
+          "minutes": 10
+        }
+      },
+      {
+        "title": "La Extracción Manual",
+        "description": "Deja enfriar el agua con el tamarindo. Con tus manos, estruja vigorosamente las semillas contra el agua para soltar toda la pulpa espesa.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800"
+      },
+      {
+        "title": "Colado y Endulzado",
+        "description": "Pasa esta mezcla por un colador grueso directo al pichel. Añade el azúcar a este concentrado y disuélvela bien. Finalmente, agrega los otros 2 litros de agua fría y sirve con abundante hielo.",
+        "imageUrl": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800"
+      }
+    ]
+  },
+  {
+    "id": "frijoles-volteados-1",
+    "title": "Frijoles Volteados Negros",
+    "description": "El acompañamiento obligatorio en toda mesa chapina. Frijoles negros colados o licuados, fritos pacientemente en aceite o manteca hasta que se evaporan sus líquidos y se forma una masa brillante, espesa y con forma de rollo ('volteado').",
+    "basePortions": 6,
+    "category": "Acompañamiento",
+    "difficulty": "Media",
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "temperature": "Caliente",
+    "rating": 5,
+    "author": "Cocina Diaria",
+    "utensils": [
+      "Sartén grande (preferible teflón o hierro)",
+      "Paleta de madera",
+      "Licuadora"
+    ],
+    "tips": "El secreto de un buen frijol volteado es no dejar de mover la paleta de madera. Si te detienes, el frijol empezará a saltar agresivamente (quemando tus brazos) y se pegará al fondo.",
+    "isPublic": true,
+    "isContestEntry": false,
+    "ingredients": [
+      {
+        "name": "Frijoles negros cocidos (con su caldo)",
+        "qty": 3,
+        "unit": "tazas",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 0.5,
+        "unit": "unidad",
+        "price": 2,
+        "store": "Mercado"
+      },
+      {
+        "name": "Aceite vegetal o manteca de cerdo",
+        "qty": 0.5,
+        "unit": "taza",
+        "price": 5,
+        "store": "Casa"
+      },
+      {
+        "name": "Ajo (opcional)",
+        "qty": 1,
+        "unit": "diente",
+        "price": 1,
+        "store": "Casa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Licuado del Frijol",
+        "description": "Licúa los frijoles cocidos junto con un poco de su caldo hasta que quede un puré fino sin cáscaras enteras. Si te gustan rústicos, puedes solo machacarlos.",
+        "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800",
+        "timer": {
+          "name": "Licuar",
+          "minutes": 5
+        }
+      },
+      {
+        "title": "Sofreír Aromáticos",
+        "description": "En un sartén grande, calienta muy bien el aceite o manteca. Fríe la cebolla finamente picada (y el ajo) hasta que estén casi quemados, para dar sabor al aceite.",
+        "imageUrl": "https://images.unsplash.com/photo-1533777419517-3e4017e2e15a?q=80&w=800",
+        "timer": {
+          "name": "Freír cebolla",
+          "minutes": 5
+        }
+      },
+      {
+        "title": "El Proceso de 'Volteo'",
+        "description": "Vierte el frijol licuado al sartén con aceite caliente (cuidado porque salta). Cocina a fuego medio-alto moviendo constantemente con la paleta. El frijol espesará poco a poco, despegándose de las orillas y el fondo hasta formar un rollo que puedes 'voltear' entero con la paleta.",
+        "imageUrl": "https://images.unsplash.com/photo-1587339144367-f1cac9c17e58?q=80&w=800",
+        "timer": {
+          "name": "Mover el frijol",
+          "minutes": 15
+        }
+      }
+    ]
+  }
+]
