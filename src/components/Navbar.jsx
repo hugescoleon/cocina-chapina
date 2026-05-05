@@ -87,13 +87,17 @@ export default function Navbar() {
               <span className="text-sm font-bold leading-tight">{user.name}</span>
               <span className="text-[10px] text-muted-foreground font-bold tracking-wider uppercase">{user.role}</span>
             </div>
-            <div
-              className="w-8 h-8 rounded-full border-2 border-white/30 flex items-center justify-center font-black text-white text-xs shrink-0"
-              style={{ backgroundColor: user.avatarColor || "#f59e0b" }}
-              title={user.name}
-            >
-              {user.name.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase()}
-            </div>
+            {user.avatarUrl ? (
+              <img src={user.avatarUrl} alt={user.name} className="w-8 h-8 rounded-full object-cover border-2 border-primary/30 shrink-0" />
+            ) : (
+              <div
+                className="w-8 h-8 rounded-full border-2 border-white/30 flex items-center justify-center font-black text-white text-xs shrink-0"
+                style={{ backgroundColor: user.avatarColor || "#f59e0b" }}
+                title={user.name}
+              >
+                {user.name.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase()}
+              </div>
+            )}
             <button 
               onClick={handleLogout}
               className="p-2 text-muted-foreground hover:text-destructive transition-colors rounded-lg hover:bg-destructive/10"

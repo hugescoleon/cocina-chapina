@@ -2,20 +2,21 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { MOCK_USERS, login, getAuthUser } from "@/lib/authStore";
+import { getUsersList, login, getAuthUser } from "@/lib/authStore";
 import { ChefHat } from "lucide-react";
 import clsx from "clsx";
 
 export default function LoginPage() {
   const router = useRouter();
   const [loading, setLoading] = useState(true);
+  const [users, setUsers] = useState([]);
 
   useEffect(() => {
-    // If already logged in, redirect
     const user = getAuthUser();
     if (user) {
       router.push("/recipes");
     } else {
+      setUsers(getUsersList());
       setLoading(false);
     }
   }, [router]);
@@ -48,19 +49,27 @@ export default function LoginPage() {
 
         {/* User Selection */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-3xl">
-          {MOCK_USERS.map((user) => (
+          {users.map((user) => (
             <button
               key={user.id}
               onClick={() => handleLogin(user.id)}
               className="group flex flex-col items-center p-6 rounded-3xl bg-stone-900/50 border border-stone-800 hover:border-primary/50 hover:bg-stone-800/80 transition-all duration-300 transform hover:-translate-y-2"
             >
               <div className="relative mb-4">
-                <div 
-                  className="w-24 h-24 rounded-full border-4 border-stone-800 group-hover:border-primary transition-colors flex items-center justify-center font-black text-white text-3xl"
-                  style={{ backgroundColor: user.avatarColor || "#f59e0b" }}
-                >
-                  {user.name.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase()}
-                </div>
+                {user.avatarUrl ? (
+                  <img
+                    src={user.avatarUrl}
+                    alt={user.name}
+                    className="w-24 h-24 rounded-full border-4 border-stone-800 group-hover:border-primary transition-colors object-cover"
+                  />
+                ) : (
+                  <div
+                    className="w-24 h-24 rounded-full border-4 border-stone-800 group-hover:border-primary transition-colors flex items-center justify-center font-black text-white text-3xl"
+                    style={{ backgroundColor: user.avatarColor || "#f59e0b" }}
+                  >
+                    {user.name.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase()}
+                  </div>
+                )}
                 <div className={clsx(
                   "absolute -bottom-2 left-1/2 -translate-x-1/2 px-2.5 py-0.5 rounded-full text-[10px] font-black tracking-widest uppercase border",
                   user.role === "ADMIN" ? "bg-red-500/20 text-red-400 border-red-500/30" :
