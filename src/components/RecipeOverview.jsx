@@ -23,7 +23,7 @@ export default function RecipeOverview({ recipe, currentScale, onScaleChange, on
           <p className="text-lg italic text-muted-foreground">Por: {recipe.author || "Anónimo"}</p>
         </div>
         <div className="flex flex-col items-center gap-2">
-          <QRCode value={`https://cocinachapina.com/cook?recipeId=${recipe.id}`} size={100} />
+          <QRCode value={`https://cocina-chapina.vercel.app/cook?recipeId=${recipe.id}`} size={100} />
           <span className="text-[12px] font-bold uppercase tracking-widest text-muted-foreground">Ver en línea</span>
         </div>
       </div>
