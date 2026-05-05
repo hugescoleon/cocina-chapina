@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
-import { getRecipes, deleteRecipe } from "@/lib/recipeStore";
+import { getRecipes, loadRecipes, deleteRecipe } from "@/lib/recipeStore";
 import Navbar from "@/components/Navbar";
 import { Plus, Trash2, Utensils, Pencil, ChefHat, Clock, Signal, Search, Globe, Trophy, Star, ArrowUpDown } from "lucide-react";
 import clsx from "clsx";
@@ -18,7 +18,7 @@ function GalleryContent() {
   const activeRecipeId = searchParams.get("active");
 
   useEffect(() => {
-    setRecipes(getRecipes());
+    loadRecipes().then(setRecipes);
   }, []);
 
   const handleDelete = (id, e) => {

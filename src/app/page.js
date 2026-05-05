@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { getUsersList, login, getAuthUser } from "@/lib/authStore";
+import { getUsersList, loadUsersList, login, getAuthUser } from "@/lib/authStore";
 import { ChefHat } from "lucide-react";
 import clsx from "clsx";
 
@@ -16,7 +16,7 @@ export default function LoginPage() {
     if (user) {
       router.push("/recipes");
     } else {
-      setUsers(getUsersList());
+      loadUsersList().then(setUsers);
       setLoading(false);
     }
   }, [router]);

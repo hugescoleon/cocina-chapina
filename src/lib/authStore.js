@@ -1,8 +1,9 @@
-// Authentication Store — Persists to localStorage
+// Auth Store — Supabase (cloud) with localStorage fallback
+import { supabase } from "./supabase";
+
 const AUTH_KEY = "cocina_chapina_auth";
 const USERS_KEY = "cocina_chapina_users";
 
-// Default users — loaded if localStorage is empty
 const DEFAULT_USERS = [
   {
     id: "user-1",
@@ -33,9 +34,8 @@ const DEFAULT_USERS = [
   },
 ];
 
-// ── Users CRUD ────────────────────────────────────────────────────────────────
-
-export const getUsersList = () => {
+// ── Local helpers ─────────────────────────────────────────────────────────────
+const fromLocal = () => {
   if (typeof window === "undefined") return DEFAULT_USERS;
   try {
     const stored = localStorage.getItem(USERS_KEY);
@@ -46,60 +46,115 @@ export const getUsersList = () => {
   }
 };
 
-export const saveUsersList = (users) => {
-  localStorage.setItem(USERS_KEY, JSON.stringify(users));
+const toLocal = (users) => {
+  if (typeof window !== "undefined")
+    localStorage.setItem(USERS_KEY, JSON.stringify(users));
 };
 
-export const createUser = (userData) => {
-  const users = getUsersList();
-  const newUser = {
-    ...userData,
-    id: `user-${Date.now()}`,
-  };
+// ── Public API ────────────────────────────────────────────────────────────────
+export const getUsersList = () => fromLocal();
+
+export const loadUsersList = async () => {
+  if (!supabase) return fromLocal();
+  try {
+    const { data, error } = await supabase.from("users").select("*");
+    if (error || !data || data.length === 0) return fromLocal();
+    // Map snake_case to camelCase
+    const users = data.map((u) => ({
+      id: u.id,
+      role: u.role,
+      name: u.name,
+      email: u.email,
+      avatarColor: u.avatar_color,
+      avatarUrl: u.avatar_url,
+      description: u.description,
+    }));
+    toLocal(users);
+    return users;
+  } catch {
+    return fromLocal();
+  }
+};
+
+const toSupabaseUser = (u) => ({
+  id: u.id,
+  role: u.role,
+  name: u.name,
+  email: u.email || "",
+  avatar_color: u.avatarColor || "#10b981",
+  avatar_url: u.avatarUrl || "",
+  description: u.description || "",
+});
+
+export const saveUsersList = (users) => toLocal(users);
+
+export const createUser = async (userData) => {
+  const newUser = { ...userData, id: `user-${Date.now()}` };
+  const users = fromLocal();
   const updated = [...users, newUser];
-  saveUsersList(updated);
-  return updated;
-};
+  toLocal(updated);
 
-export const updateUser = (userId, userData) => {
-  const users = getUsersList();
-  const updated = users.map((u) => (u.id === userId ? { ...u, ...userData } : u));
-  saveUsersList(updated);
-  // If the updated user is currently logged in, refresh the session
-  if (typeof window !== "undefined") {
-    const current = getAuthUser();
-    if (current?.id === userId) {
-      localStorage.setItem(AUTH_KEY, JSON.stringify({ ...current, ...userData }));
+  if (supabase) {
+    try {
+      await supabase.from("users").insert(toSupabaseUser(newUser));
+    } catch (e) {
+      console.error("Create user error:", e);
     }
   }
   return updated;
 };
 
-export const deleteUser = (userId) => {
-  const users = getUsersList();
-  // Never allow deleting the ADMIN
-  const target = users.find((u) => u.id === userId);
-  if (target?.role === "ADMIN") throw new Error("No se puede eliminar al Administrador.");
-  const updated = users.filter((u) => u.id !== userId);
-  saveUsersList(updated);
+export const updateUser = async (userId, userData) => {
+  const users = fromLocal();
+  const updated = users.map((u) => (u.id === userId ? { ...u, ...userData } : u));
+  toLocal(updated);
+
+  if (typeof window !== "undefined") {
+    const current = getAuthUser();
+    if (current?.id === userId)
+      localStorage.setItem(AUTH_KEY, JSON.stringify({ ...current, ...userData }));
+  }
+
+  if (supabase) {
+    try {
+      await supabase.from("users").update(toSupabaseUser({ ...userData, id: userId })).eq("id", userId);
+    } catch (e) {
+      console.error("Update user error:", e);
+    }
+  }
   return updated;
 };
 
-// ── Auth ──────────────────────────────────────────────────────────────────────
+export const deleteUser = async (userId) => {
+  const users = fromLocal();
+  const target = users.find((u) => u.id === userId);
+  if (target?.role === "ADMIN") throw new Error("No se puede eliminar al Administrador.");
+  const updated = users.filter((u) => u.id !== userId);
+  toLocal(updated);
 
+  if (supabase) {
+    try {
+      await supabase.from("users").delete().eq("id", userId);
+    } catch (e) {
+      console.error("Delete user error:", e);
+    }
+  }
+  return updated;
+};
+
+// ── Auth session ──────────────────────────────────────────────────────────────
 export const getAuthUser = () => {
   if (typeof window === "undefined") return null;
   try {
     const stored = localStorage.getItem(AUTH_KEY);
-    if (!stored) return null;
-    return JSON.parse(stored);
+    return stored ? JSON.parse(stored) : null;
   } catch {
     return null;
   }
 };
 
 export const login = (userId) => {
-  const users = getUsersList();
+  const users = fromLocal();
   const user = users.find((u) => u.id === userId);
   if (user) {
     localStorage.setItem(AUTH_KEY, JSON.stringify(user));

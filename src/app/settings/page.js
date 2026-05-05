@@ -2,8 +2,8 @@
 
 import { useState, useEffect, useRef } from "react";
 import Navbar from "@/components/Navbar";
-import { getSettings, saveSettings } from "@/lib/settingsStore";
-import { getAuthUser, getUsersList, createUser, updateUser, deleteUser } from "@/lib/authStore";
+import { getSettings, saveSettings, loadSettings } from "@/lib/settingsStore";
+import { getAuthUser, getUsersList, loadUsersList, createUser, updateUser, deleteUser } from "@/lib/authStore";
 import {
   Sun, Moon, Monitor, Plus, X, Tag, User, ChefHat,
   Mail, Phone, MapPin, Check, Palette, Save, RotateCcw, Hash,
@@ -158,9 +158,9 @@ export default function SettingsPage() {
   const fileRef = useRef(null);
 
   useEffect(() => {
-    setSettings(getSettings());
+    loadSettings().then(setSettings);
     setCurrentRole(getAuthUser()?.role || "USER");
-    setUsersList(getUsersList());
+    loadUsersList().then(setUsersList);
   }, []);
 
   if (!settings) return (
